@@ -27,7 +27,7 @@ export default class Navbar extends Component {
                 offset={-70}
                 duration={1300}
               >
-                Section 1
+                Introduction
               </Link>
             </li>
             <li className="nav-item">
@@ -39,7 +39,7 @@ export default class Navbar extends Component {
                 offset={-70}
                 duration={1300}
               >
-                Section 2
+                U.S. Map
               </Link>
             </li>
             <li className="nav-item">
@@ -51,7 +51,7 @@ export default class Navbar extends Component {
                 offset={-70}
                 duration={500}
               >
-                Section 3
+                Datatable
               </Link>
             </li>
             <li className="nav-item">
@@ -63,7 +63,7 @@ export default class Navbar extends Component {
                 offset={-70}
                 duration={1300}
               >
-                Section 4
+                Demographic Metrics
               </Link>
             </li>
             <li className="nav-item">
@@ -75,7 +75,7 @@ export default class Navbar extends Component {
                 offset={-70}
                 duration={1300}
               >
-                Section 5
+                About the Data
               </Link>
             </li>
           </ul>

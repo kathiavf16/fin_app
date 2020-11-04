@@ -1,18 +1,24 @@
-import React, { Component } from "react";
-import logo from "./logo.svg";
+import React, { useState } from "react";
+//import logo from "./logo.svg";
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Section from "./Components/Section";
 import dummyText from "./DummyText";
-class App extends Component {
-  render() {
+import GeoChart from "./Components/GeoChart";
+import data from "./Components/states.json"
+
+
+function App() {
+console.log(data.objects);
+
     return (
       <div className="App">
         <Navbar />
         <Section
           title="Financial Literacy in The U.S."
           subtitle={dummyText}
-          dark={true}
+          content={<GeoChart data={data}/>}
+          dark={false}
           id="section1"
         />
         <Section
@@ -41,7 +47,8 @@ class App extends Component {
         />
       </div>
     );
-  }
 }
+
+
 
 export default App;
