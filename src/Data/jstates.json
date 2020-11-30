@@ -1,0 +1,410 @@
+[
+  {
+    "id": "AL",
+    "state": "Alabama",
+    "val": "01",
+    "region": "South",
+    "division": "East South Central",
+    "grade": "A"
+  },
+  {
+    "id": "MO",
+    "state": "Missouri",
+    "val": "29",
+    "region": "Midwest",
+    "division": "West North Central",
+    "grade": "A"
+  },
+  {
+    "id": "TN",
+    "state": "Tennessee",
+    "val": "47",
+    "region": "South",
+    "division": "East South Central",
+    "grade": "A"
+  },
+  {
+    "id": "UT",
+    "state": "Utah",
+    "val": "49",
+    "region": "West",
+    "division": "Mountain",
+    "grade": "A"
+  },
+  {
+    "id": "VA",
+    "state": "Virginia",
+    "val": "51",
+    "region": "South",
+    "division": "South Atlantic",
+    "grade": "A"
+  },
+  {
+    "id": "MD",
+    "state": "Maryland",
+    "val": "24",
+    "region": "South",
+    "division": "South Atlantic",
+    "grade": "B"
+  },
+  {
+    "id": "ME",
+    "state": "Maine",
+    "val": "23",
+    "region": "Northeast",
+    "division": "New England",
+    "grade": "B"
+  },
+  {
+    "id": "ND",
+    "state": "North Dakota",
+    "val": "38",
+    "region": "Midwest",
+    "division": "West North Central",
+    "grade": "B"
+  },
+  {
+    "id": "NJ",
+    "state": "New Jersey",
+    "val": "34",
+    "region": "Northeast",
+    "division": "Middle Atlantic",
+    "grade": "B"
+  },
+  {
+    "id": "NY",
+    "state": "New York",
+    "val": "36",
+    "region": "Northeast",
+    "division": "Middle Atlantic",
+    "grade": "B"
+  },
+  {
+    "id": "OH",
+    "state": "Ohio",
+    "val": "39",
+    "region": "Midwest",
+    "division": "East North Central",
+    "grade": "B"
+  },
+  {
+    "id": "TX",
+    "state": "Texas",
+    "val": "48",
+    "region": "South",
+    "division": "West South Central",
+    "grade": "B"
+  },
+  {
+    "id": "AR",
+    "state": "Arkansas",
+    "val": "05",
+    "region": "South",
+    "division": "West South Central",
+    "grade": "B-"
+  },
+  {
+    "id": "AZ",
+    "state": "Arizona",
+    "val": "04",
+    "region": "West",
+    "division": "Mountain",
+    "grade": "B-"
+  },
+  {
+    "id": "ID",
+    "state": "Idaho",
+    "val": "16",
+    "region": "West",
+    "division": "Mountain",
+    "grade": "B-"
+  },
+  {
+    "id": "MI",
+    "state": "Michigan",
+    "val": "26",
+    "region": "Midwest",
+    "division": "East North Central",
+    "grade": "B-"
+  },
+  {
+    "id": "MN",
+    "state": "Minnesota",
+    "val": "27",
+    "region": "Midwest",
+    "division": "West North Central",
+    "grade": "B-"
+  },
+  {
+    "id": "NC",
+    "state": "North Carolina",
+    "val": "37",
+    "region": "South",
+    "division": "South Atlantic",
+    "grade": "B-"
+  },
+  {
+    "id": "NH",
+    "state": "New Hampshire",
+    "val": "33",
+    "region": "Northeast",
+    "division": "New England",
+    "grade": "B-"
+  },
+  {
+    "id": "SC",
+    "state": "South Carolina",
+    "val": "45",
+    "region": "South",
+    "division": "South Atlantic",
+    "grade": "B-"
+  },
+  {
+    "id": "FL",
+    "state": "Florida",
+    "val": "12",
+    "region": "South",
+    "division": "South Atlantic",
+    "grade": "B+"
+  },
+  {
+    "id": "GA",
+    "state": "Georgia",
+    "val": "13",
+    "region": "South",
+    "division": "South Atlantic",
+    "grade": "B+"
+  },
+  {
+    "id": "IL",
+    "state": "Illinois",
+    "val": "17",
+    "region": "Midwest",
+    "division": "East North Central",
+    "grade": "B+"
+  },
+  {
+    "id": "WV",
+    "state": "West Virginia",
+    "val": "54",
+    "region": "South",
+    "division": "South Atlantic",
+    "grade": "B+"
+  },
+  {
+    "id": "CO",
+    "state": "Colorado",
+    "val": "08",
+    "region": "West",
+    "division": "Mountain",
+    "grade": "C"
+  },
+  {
+    "id": "IA",
+    "state": "Iowa",
+    "val": "19",
+    "region": "Midwest",
+    "division": "West North Central",
+    "grade": "C"
+  },
+  {
+    "id": "IN",
+    "state": "Indiana",
+    "val": "18",
+    "region": "Midwest",
+    "division": "East North Central",
+    "grade": "C"
+  },
+  {
+    "id": "KS",
+    "state": "Kansas",
+    "val": "20",
+    "region": "Midwest",
+    "division": "West North Central",
+    "grade": "C"
+  },
+  {
+    "id": "KY",
+    "state": "Kentucky",
+    "val": "21",
+    "region": "South",
+    "division": "East South Central",
+    "grade": "C"
+  },
+  {
+    "id": "MS",
+    "state": "Mississippi",
+    "val": "28",
+    "region": "South",
+    "division": "East South Central",
+    "grade": "C"
+  },
+  {
+    "id": "NE",
+    "state": "Nebraska",
+    "val": "31",
+    "region": "Midwest",
+    "division": "West North Central",
+    "grade": "C"
+  },
+  {
+    "id": "NM",
+    "state": "New Mexico",
+    "val": "35",
+    "region": "West",
+    "division": "Mountain",
+    "grade": "C"
+  },
+  {
+    "id": "NV",
+    "state": "Nevada",
+    "val": "32",
+    "region": "West",
+    "division": "Mountain",
+    "grade": "C"
+  },
+  {
+    "id": "OK",
+    "state": "Oklahoma",
+    "val": "40",
+    "region": "South",
+    "division": "West South Central",
+    "grade": "C"
+  },
+  {
+    "id": "OR",
+    "state": "Oregon",
+    "val": "41",
+    "region": "West",
+    "division": "Pacific",
+    "grade": "C"
+  },
+  {
+    "id": "WA",
+    "state": "Washington",
+    "val": "53",
+    "region": "West",
+    "division": "Pacific",
+    "grade": "C"
+  },
+  {
+    "id": "LA",
+    "state": "Louisiana",
+    "val": "22",
+    "region": "South",
+    "division": "West South Central",
+    "grade": "D"
+  },
+  {
+    "id": "MT",
+    "state": "Montana",
+    "val": "30",
+    "region": "West",
+    "division": "Mountain",
+    "grade": "D"
+  },
+  {
+    "id": "VT",
+    "state": "Vermont",
+    "val": "50",
+    "region": "Northeast",
+    "division": "New England",
+    "grade": "D"
+  },
+  {
+    "id": "WY",
+    "state": "Wyoming",
+    "val": "56",
+    "region": "West",
+    "division": "Mountain",
+    "grade": "D"
+  },
+  {
+    "id": "AK",
+    "state": "Alaska",
+    "val": "02",
+    "region": "West",
+    "division": "Pacific",
+    "grade": "F"
+  },
+  {
+    "id": "CA",
+    "state": "California",
+    "val": "06",
+    "region": "West",
+    "division": "Pacific",
+    "grade": "F"
+  },
+  {
+    "id": "CT",
+    "state": "Connecticut",
+    "val": "09",
+    "region": "Northeast",
+    "division": "New England",
+    "grade": "F"
+  },
+  {
+    "id": "DC",
+    "state": "District of Columbia",
+    "val": "11",
+    "region": "South",
+    "division": "South Atlantic",
+    "grade": "F"
+  },
+  {
+    "id": "DE",
+    "state": "Delaware",
+    "val": "10",
+    "region": "South",
+    "division": "South Atlantic",
+    "grade": "F"
+  },
+  {
+    "id": "HI",
+    "state": "Hawaii",
+    "val": "15",
+    "region": "West",
+    "division": "Pacific",
+    "grade": "F"
+  },
+  {
+    "id": "MA",
+    "state": "Massachusetts",
+    "val": "25",
+    "region": "Northeast",
+    "division": "New England",
+    "grade": "F"
+  },
+  {
+    "id": "PA",
+    "state": "Pennsylvania",
+    "val": "42",
+    "region": "Northeast",
+    "division": "Middle Atlantic",
+    "grade": "F"
+  },
+  {
+    "id": "RI",
+    "state": "Rhode Island",
+    "val": "44",
+    "region": "Northeast",
+    "division": "New England",
+    "grade": "F"
+  },
+  {
+    "id": "SD",
+    "state": "South Dakota",
+    "val": "46",
+    "region": "Midwest",
+    "division": "West North Central",
+    "grade": "F"
+  },
+  {
+    "id": "WI",
+    "state": "Wisconsin",
+    "val": "55",
+    "region": "Midwest",
+    "division": "East North Central",
+    "grade": "F"
+  }
+]

@@ -1,8 +1,28 @@
+/* DOM properties */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
+
+body{
+  background-color: #fefae0;
+  vertical-align: baseline;
+
+}
+h1{
+font-family: 'Playfair Display', serif;
+}
+/* nav bar */
+
 :root {
-  --off-white: orange;
+  --off-white: #a7c957;
+  /* data table colors */
+  --rft-main-color: #5d0444;
+  --rft-button-color: #5d0444;
+  --rft-even-row-color: #fefae0;
 }
 .nav {
   background-color: var(--off-white);
+  font-family: 'Noto Serif', serif;
   position: sticky;
   top: 0px;
   width: 100%;
@@ -21,7 +41,7 @@
 }
 
 .nav .nav-content {
-  max-width: 900px;
+  max-width: 70%;
   padding: 0rem 3rem;
   margin: 0 auto;
   display: flex;
@@ -37,7 +57,9 @@
 .nav-item {
   display: inline;
   margin-left: 2rem;
-  color: #333;
+  color: #111d13;
+  font-weight: 600;;
+
 }
 
 .nav-item:hover {
@@ -46,33 +68,66 @@
 }
 
 .section {
-  height: 100vh;
+  border-top: 2px solid #111d13;
+  font-family: 'Noto Serif', serif;
+  color: #111d13;
+  text-align: center;
 }
 
 .section-dark {
-  background: #333;
-  color: white;
+  font-family: 'Noto Serif', serif;
+  background: #fefae0;
+  color: #111d13;
+  text-align: center;
+}
+.section .Subcontent{
+  text-align: left;
+  height: 500px;
+}
+
+.section .subcontent2{
+  width: 200px;
+  text-align: left;
+  margin: 0%;
+  top: 10%;
+  position: relative;
+  right: -50%;
+  top: -80%
+
 }
 
 .section-content {
-  max-width: 800px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 40px;
 }
 
-/* map css from tutorial */
+.nav-element {
+    margin: auto;
+    max-width: 78px;
+    height: 50px;
+}
+.section .title {
+   background: #111d13;
+   padding: 0 9px 4px;
+   font-size: 14px;
+   letter-spacing: .050em;
+   font-weight: 600;
+   color: #fefae0;
+   margin: 0;
+   display: inline-block;
+   vertical-align: top;
+   float: left;
+   z-index: 1;
+   position: relative;
+}
+/* us map tooltip */
 
 svg {
-  display: block;
-  width: 100%;
-  height: 500px;
+  display: inline-block;
+  vertical-align: middle;
 }
 
-svg .country:hover {
-  stroke: black;
-  stroke-width: 1px;
-  cursor: pointer;
-}
 
 #root {
   /* display: flex; */
@@ -84,3 +139,41 @@ svg .country:hover {
   /* text-align: center; */
   box-sizing: border-box;
 }
+
+/* npm map component */
+
+path {
+  pointer-events: all;
+}
+path:hover {
+  opacity: 0.50;
+  cursor: pointer;
+}
+/* Table component */
+
+.Flex-table tr {
+  color: #111d13;
+  font-weight: 600;
+  text-align: center;
+}
+
+.Flex-table thead {
+  color: #111d13;
+  --rft-main-color: #111d13;
+  --rft-button-color: #111d13;
+  --rft-even-row-color: #fefae0;
+  text-align:center;
+}
+ /* carosel card; */
+
+ .card{
+   width: 100%;
+   height: 700px;
+   background: #333;
+   color: #fefae0;
+   font-size: 30px;
+   margin: 0 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }

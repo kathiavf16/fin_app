@@ -1,0 +1,512 @@
+[
+  {
+    "State": "New Hampshire",
+    "Avg. Debt of Graduate": "$39,410",
+    "Avg. Debt Rank": 1,
+    "% of Graduates with Debt": "74%",
+    "% with Debt Rank": 1,
+    "Fall enrollment - Undergrads total": "131,033",
+    "Tuition and Fees (in-district/in-state)": "$25,667",
+    "Total Cost of Attendance (on-campus)": "$44,069"
+  },
+  {
+    "State": "Pennsylvania",
+    "Avg. Debt of Graduate": "$39,027",
+    "Avg. Debt Rank": 2,
+    "% of Graduates with Debt": "65%",
+    "% with Debt Rank": 6,
+    "Fall enrollment - Undergrads total": "579,751",
+    "Tuition and Fees (in-district/in-state)": "$25,068",
+    "Total Cost of Attendance (on-campus)": "$43,974"
+  },
+  {
+    "State": "Connecticut",
+    "Avg. Debt of Graduate": "$38,546",
+    "Avg. Debt Rank": 3,
+    "% of Graduates with Debt": "56%",
+    "% with Debt Rank": 27,
+    "Fall enrollment - Undergrads total": "170,056",
+    "Tuition and Fees (in-district/in-state)": "$25,529",
+    "Total Cost of Attendance (on-campus)": "$48,662"
+  },
+  {
+    "State": "Rhode Island",
+    "Avg. Debt of Graduate": "$37,614",
+    "Avg. Debt Rank": 4,
+    "% of Graduates with Debt": "59%",
+    "% with Debt Rank": 18,
+    "Fall enrollment - Undergrads total": "71,237",
+    "Tuition and Fees (in-district/in-state)": "$27,779",
+    "Total Cost of Attendance (on-campus)": "$50,508"
+  },
+  {
+    "State": "Delaware",
+    "Avg. Debt of Graduate": "$37,447",
+    "Avg. Debt Rank": 5,
+    "% of Graduates with Debt": "59%",
+    "% with Debt Rank": 18,
+    "Fall enrollment - Undergrads total": "50,759",
+    "Tuition and Fees (in-district/in-state)": "$11,522",
+    "Total Cost of Attendance (on-campus)": "$29,388"
+  },
+  {
+    "State": "Maine",
+    "Avg. Debt of Graduate": "$33,591",
+    "Avg. Debt Rank": 6,
+    "% of Graduates with Debt": "67%",
+    "% with Debt Rank": 3,
+    "Fall enrollment - Undergrads total": "62,893",
+    "Tuition and Fees (in-district/in-state)": "$19,695",
+    "Total Cost of Attendance (on-campus)": "$35,050"
+  },
+  {
+    "State": "New Jersey",
+    "Avg. Debt of Graduate": "$33,566",
+    "Avg. Debt Rank": 7,
+    "% of Graduates with Debt": "64%",
+    "% with Debt Rank": 7,
+    "Fall enrollment - Undergrads total": "366,368",
+    "Tuition and Fees (in-district/in-state)": "$15,464",
+    "Total Cost of Attendance (on-campus)": "$39,219"
+  },
+  {
+    "State": "Massachusetts",
+    "Avg. Debt of Graduate": "$33,256",
+    "Avg. Debt Rank": 8,
+    "% of Graduates with Debt": "55%",
+    "% with Debt Rank": 30,
+    "Fall enrollment - Undergrads total": "362,760",
+    "Tuition and Fees (in-district/in-state)": "$31,718",
+    "Total Cost of Attendance (on-campus)": "$53,853"
+  },
+  {
+    "State": "North Dakota",
+    "Avg. Debt of Graduate": "$32,745",
+    "Avg. Debt Rank": 9,
+    "% of Graduates with Debt": "64%",
+    "% with Debt Rank": 7,
+    "Fall enrollment - Undergrads total": "45,911",
+    "Tuition and Fees (in-district/in-state)": "$8,634",
+    "Total Cost of Attendance (on-campus)": "$20,975"
+  },
+  {
+    "State": "District of Columbia",
+    "Avg. Debt of Graduate": "$32,039",
+    "Avg. Debt Rank": 10,
+    "% of Graduates with Debt": "46%",
+    "% with Debt Rank": 46,
+    "Fall enrollment - Undergrads total": "52,668",
+    "Tuition and Fees (in-district/in-state)": "$44,723",
+    "Total Cost of Attendance (on-campus)": "$64,354"
+  },
+  {
+    "State": "Minnesota",
+    "Avg. Debt of Graduate": "$31,856",
+    "Avg. Debt Rank": 11,
+    "% of Graduates with Debt": "66%",
+    "% with Debt Rank": 5,
+    "Fall enrollment - Undergrads total": "295,117",
+    "Tuition and Fees (in-district/in-state)": "$17,566",
+    "Total Cost of Attendance (on-campus)": "$34,345"
+  },
+  {
+    "State": "South Dakota",
+    "Avg. Debt of Graduate": "$31,653",
+    "Avg. Debt Rank": 12,
+    "% of Graduates with Debt": "74%",
+    "% with Debt Rank": 1,
+    "Fall enrollment - Undergrads total": "46,558",
+    "Tuition and Fees (in-district/in-state)": "$10,835",
+    "Total Cost of Attendance (on-campus)": "$25,335"
+  },
+  {
+    "State": "Mississippi",
+    "Avg. Debt of Graduate": "$31,651",
+    "Avg. Debt Rank": 13,
+    "% of Graduates with Debt": "55%",
+    "% with Debt Rank": 30,
+    "Fall enrollment - Undergrads total": "151,964",
+    "Tuition and Fees (in-district/in-state)": "$6,152",
+    "Total Cost of Attendance (on-campus)": "$17,609"
+  },
+  {
+    "State": "Wisconsin",
+    "Avg. Debt of Graduate": "$31,550",
+    "Avg. Debt Rank": 14,
+    "% of Graduates with Debt": "64%",
+    "% with Debt Rank": 7,
+    "Fall enrollment - Undergrads total": "298,958",
+    "Tuition and Fees (in-district/in-state)": "$14,166",
+    "Total Cost of Attendance (on-campus)": "$28,296"
+  },
+  {
+    "State": "South Carolina",
+    "Avg. Debt of Graduate": "$31,524",
+    "Avg. Debt Rank": 15,
+    "% of Graduates with Debt": "60%",
+    "% with Debt Rank": 12,
+    "Fall enrollment - Undergrads total": "216,957",
+    "Tuition and Fees (in-district/in-state)": "$12,984",
+    "Total Cost of Attendance (on-campus)": "$31,534"
+  },
+  {
+    "State": "New York",
+    "Avg. Debt of Graduate": "$31,155",
+    "Avg. Debt Rank": 16,
+    "% of Graduates with Debt": "58%",
+    "% with Debt Rank": 22,
+    "Fall enrollment - Undergrads total": "1,031,221",
+    "Tuition and Fees (in-district/in-state)": "$20,972",
+    "Total Cost of Attendance (on-campus)": "$43,375"
+  },
+  {
+    "State": "Michigan",
+    "Avg. Debt of Graduate": "$30,677",
+    "Avg. Debt Rank": 17,
+    "% of Graduates with Debt": "59%",
+    "% with Debt Rank": 18,
+    "Fall enrollment - Undergrads total": "472,316",
+    "Tuition and Fees (in-district/in-state)": "$13,639",
+    "Total Cost of Attendance (on-campus)": "$29,456"
+  },
+  {
+    "State": "Virginia",
+    "Avg. Debt of Graduate": "$30,574",
+    "Avg. Debt Rank": 18,
+    "% of Graduates with Debt": "56%",
+    "% with Debt Rank": 27,
+    "Fall enrollment - Undergrads total": "454,437",
+    "Tuition and Fees (in-district/in-state)": "$15,084",
+    "Total Cost of Attendance (on-campus)": "$33,971"
+  },
+  {
+    "State": "Vermont",
+    "Avg. Debt of Graduate": "$30,566",
+    "Avg. Debt Rank": 19,
+    "% of Graduates with Debt": "60%",
+    "% with Debt Rank": 12,
+    "Fall enrollment - Undergrads total": "36,564",
+    "Tuition and Fees (in-district/in-state)": "$28,586",
+    "Total Cost of Attendance (on-campus)": "$45,172"
+  },
+  {
+    "State": "Maryland",
+    "Avg. Debt of Graduate": "$30,303",
+    "Avg. Debt Rank": 20,
+    "% of Graduates with Debt": "53%",
+    "% with Debt Rank": 34,
+    "Fall enrollment - Undergrads total": "297,282",
+    "Tuition and Fees (in-district/in-state)": "$14,188",
+    "Total Cost of Attendance (on-campus)": "$35,601"
+  },
+  {
+    "State": "Iowa",
+    "Avg. Debt of Graduate": "$30,259",
+    "Avg. Debt Rank": 21,
+    "% of Graduates with Debt": "63%",
+    "% with Debt Rank": 10,
+    "Fall enrollment - Undergrads total": "219,390",
+    "Tuition and Fees (in-district/in-state)": "$14,729",
+    "Total Cost of Attendance (on-campus)": "$28,549"
+  },
+  {
+    "State": "Ohio",
+    "Avg. Debt of Graduate": "$29,886",
+    "Avg. Debt Rank": 22,
+    "% of Graduates with Debt": "60%",
+    "% with Debt Rank": 12,
+    "Fall enrollment - Undergrads total": "571,719",
+    "Tuition and Fees (in-district/in-state)": "$15,952",
+    "Total Cost of Attendance (on-campus)": "$34,678"
+  },
+  {
+    "State": "Alabama",
+    "Avg. Debt of Graduate": "$29,791",
+    "Avg. Debt Rank": 23,
+    "% of Graduates with Debt": "50%",
+    "% with Debt Rank": 36,
+    "Fall enrollment - Undergrads total": "257,606",
+    "Tuition and Fees (in-district/in-state)": "$9,682",
+    "Total Cost of Attendance (on-campus)": "$25,805"
+  },
+  {
+    "State": "Illinois",
+    "Avg. Debt of Graduate": "$29,666",
+    "Avg. Debt Rank": 24,
+    "% of Graduates with Debt": "61%",
+    "% with Debt Rank": 11,
+    "Fall enrollment - Undergrads total": "598,106",
+    "Tuition and Fees (in-district/in-state)": "$18,611",
+    "Total Cost of Attendance (on-campus)": "$42,705"
+  },
+  {
+    "State": "West Virginia",
+    "Avg. Debt of Graduate": "$29,272",
+    "Avg. Debt Rank": 25,
+    "% of Graduates with Debt": "67%",
+    "% with Debt Rank": 3,
+    "Fall enrollment - Undergrads total": "120,858",
+    "Tuition and Fees (in-district/in-state)": "$10,028",
+    "Total Cost of Attendance (on-campus)": "$24,979"
+  },
+  {
+    "State": "Missouri",
+    "Avg. Debt of Graduate": "$28,740",
+    "Avg. Debt Rank": 26,
+    "% of Graduates with Debt": "57%",
+    "% with Debt Rank": 24,
+    "Fall enrollment - Undergrads total": "302,639",
+    "Tuition and Fees (in-district/in-state)": "$12,606",
+    "Total Cost of Attendance (on-campus)": "$28,491"
+  },
+  {
+    "State": "Kentucky",
+    "Avg. Debt of Graduate": "$28,482",
+    "Avg. Debt Rank": 27,
+    "% of Graduates with Debt": "58%",
+    "% with Debt Rank": 22,
+    "Fall enrollment - Undergrads total": "216,033",
+    "Tuition and Fees (in-district/in-state)": "$12,604",
+    "Total Cost of Attendance (on-campus)": "$30,068"
+  },
+  {
+    "State": "Indiana",
+    "Avg. Debt of Graduate": "$28,112",
+    "Avg. Debt Rank": 28,
+    "% of Graduates with Debt": "59%",
+    "% with Debt Rank": 18,
+    "Fall enrollment - Undergrads total": "331,909",
+    "Tuition and Fees (in-district/in-state)": "$15,984",
+    "Total Cost of Attendance (on-campus)": "$31,855"
+  },
+  {
+    "State": "Georgia",
+    "Avg. Debt of Graduate": "$28,081",
+    "Avg. Debt Rank": 29,
+    "% of Graduates with Debt": "56%",
+    "% with Debt Rank": 27,
+    "Fall enrollment - Undergrads total": "468,194",
+    "Tuition and Fees (in-district/in-state)": "$11,305",
+    "Total Cost of Attendance (on-campus)": "$28,641"
+  },
+  {
+    "State": "Oregon",
+    "Avg. Debt of Graduate": "$27,542",
+    "Avg. Debt Rank": 30,
+    "% of Graduates with Debt": "54%",
+    "% with Debt Rank": 33,
+    "Fall enrollment - Undergrads total": "198,837",
+    "Tuition and Fees (in-district/in-state)": "$14,285",
+    "Total Cost of Attendance (on-campus)": "$33,343"
+  },
+  {
+    "State": "Tennessee",
+    "Avg. Debt of Graduate": "$27,525",
+    "Avg. Debt Rank": 31,
+    "% of Graduates with Debt": "60%",
+    "% with Debt Rank": 12,
+    "Fall enrollment - Undergrads total": "290,288",
+    "Tuition and Fees (in-district/in-state)": "$12,891",
+    "Total Cost of Attendance (on-campus)": "$33,397"
+  },
+  {
+    "State": "Montana",
+    "Avg. Debt of Graduate": "$27,265",
+    "Avg. Debt Rank": 32,
+    "% of Graduates with Debt": "57%",
+    "% with Debt Rank": 24,
+    "Fall enrollment - Undergrads total": "44,167",
+    "Tuition and Fees (in-district/in-state)": "$8,528",
+    "Total Cost of Attendance (on-campus)": "$23,188"
+  },
+  {
+    "State": "Texas",
+    "Avg. Debt of Graduate": "$26,951",
+    "Avg. Debt Rank": 33,
+    "% of Graduates with Debt": "48%",
+    "% with Debt Rank": 40,
+    "Fall enrollment - Undergrads total": "1,476,789",
+    "Tuition and Fees (in-district/in-state)": "$10,248",
+    "Total Cost of Attendance (on-campus)": "$27,302"
+  },
+  {
+    "State": "Kansas",
+    "Avg. Debt of Graduate": "$26,788",
+    "Avg. Debt Rank": 34,
+    "% of Graduates with Debt": "60%",
+    "% with Debt Rank": 12,
+    "Fall enrollment - Undergrads total": "187,537",
+    "Tuition and Fees (in-district/in-state)": "$9,332",
+    "Total Cost of Attendance (on-campus)": "$23,281"
+  },
+  {
+    "State": "Arkansas",
+    "Avg. Debt of Graduate": "$26,679",
+    "Avg. Debt Rank": 35,
+    "% of Graduates with Debt": "53%",
+    "% with Debt Rank": 34,
+    "Fall enrollment - Undergrads total": "141,802",
+    "Tuition and Fees (in-district/in-state)": "$9,053",
+    "Total Cost of Attendance (on-campus)": "$24,648"
+  },
+  {
+    "State": "North Carolina",
+    "Avg. Debt of Graduate": "$26,583",
+    "Avg. Debt Rank": 36,
+    "% of Graduates with Debt": "55%",
+    "% with Debt Rank": 30,
+    "Fall enrollment - Undergrads total": "495,382",
+    "Tuition and Fees (in-district/in-state)": "$12,805",
+    "Total Cost of Attendance (on-campus)": "$31,244"
+  },
+  {
+    "State": "Colorado",
+    "Avg. Debt of Graduate": "$26,562",
+    "Avg. Debt Rank": 37,
+    "% of Graduates with Debt": "50%",
+    "% with Debt Rank": 36,
+    "Fall enrollment - Undergrads total": "313,160",
+    "Tuition and Fees (in-district/in-state)": "$12,815",
+    "Total Cost of Attendance (on-campus)": "$31,396"
+  },
+  {
+    "State": "Nebraska",
+    "Avg. Debt of Graduate": "$26,026",
+    "Avg. Debt Rank": 38,
+    "% of Graduates with Debt": "57%",
+    "% with Debt Rank": 24,
+    "Fall enrollment - Undergrads total": "109,993",
+    "Tuition and Fees (in-district/in-state)": "$12,249",
+    "Total Cost of Attendance (on-campus)": "$26,436"
+  },
+  {
+    "State": "Idaho",
+    "Avg. Debt of Graduate": "$25,942",
+    "Avg. Debt Rank": 39,
+    "% of Graduates with Debt": "60%",
+    "% with Debt Rank": 12,
+    "Fall enrollment - Undergrads total": "116,799",
+    "Tuition and Fees (in-district/in-state)": "$6,845",
+    "Total Cost of Attendance (on-campus)": "$18,778"
+  },
+  {
+    "State": "Alaska",
+    "Avg. Debt of Graduate": "$25,925",
+    "Avg. Debt Rank": 40,
+    "% of Graduates with Debt": "48%",
+    "% with Debt Rank": 40,
+    "Fall enrollment - Undergrads total": "24,356",
+    "Tuition and Fees (in-district/in-state)": "$8,056",
+    "Total Cost of Attendance (on-campus)": "$24,536"
+  },
+  {
+    "State": "Oklahoma",
+    "Avg. Debt of Graduate": "$25,793",
+    "Avg. Debt Rank": 41,
+    "% of Graduates with Debt": "47%",
+    "% with Debt Rank": 44,
+    "Fall enrollment - Undergrads total": "195,385",
+    "Tuition and Fees (in-district/in-state)": "$10,081",
+    "Total Cost of Attendance (on-campus)": "$25,067"
+  },
+  {
+    "State": "Louisiana",
+    "Avg. Debt of Graduate": "$25,512",
+    "Avg. Debt Rank": 42,
+    "% of Graduates with Debt": "48%",
+    "% with Debt Rank": 40,
+    "Fall enrollment - Undergrads total": "216,408",
+    "Tuition and Fees (in-district/in-state)": "$11,966",
+    "Total Cost of Attendance (on-campus)": "$29,661"
+  },
+  {
+    "State": "Arizona",
+    "Avg. Debt of Graduate": "$24,712",
+    "Avg. Debt Rank": 43,
+    "% of Graduates with Debt": "49%",
+    "% with Debt Rank": 39,
+    "Fall enrollment - Undergrads total": "490,769",
+    "Tuition and Fees (in-district/in-state)": "$9,530",
+    "Total Cost of Attendance (on-campus)": "$27,746"
+  },
+  {
+    "State": "Washington",
+    "Avg. Debt of Graduate": "$24,645",
+    "Avg. Debt Rank": 44,
+    "% of Graduates with Debt": "50%",
+    "% with Debt Rank": 36,
+    "Fall enrollment - Undergrads total": "332,912",
+    "Tuition and Fees (in-district/in-state)": "$13,535",
+    "Total Cost of Attendance (on-campus)": "$31,186"
+  },
+  {
+    "State": "Florida",
+    "Avg. Debt of Graduate": "$24,629",
+    "Avg. Debt Rank": 45,
+    "% of Graduates with Debt": "48%",
+    "% with Debt Rank": 40,
+    "Fall enrollment - Undergrads total": "993,376",
+    "Tuition and Fees (in-district/in-state)": "$10,471",
+    "Total Cost of Attendance (on-campus)": "$29,638"
+  },
+  {
+    "State": "Hawaii",
+    "Avg. Debt of Graduate": "$23,577",
+    "Avg. Debt Rank": 46,
+    "% of Graduates with Debt": "43%",
+    "% with Debt Rank": 50,
+    "Fall enrollment - Undergrads total": "55,702",
+    "Tuition and Fees (in-district/in-state)": "$9,604",
+    "Total Cost of Attendance (on-campus)": "$29,290"
+  },
+  {
+    "State": "Wyoming",
+    "Avg. Debt of Graduate": "$23,444",
+    "Avg. Debt Rank": 47,
+    "% of Graduates with Debt": "46%",
+    "% with Debt Rank": 46,
+    "Fall enrollment - Undergrads total": "30,107",
+    "Tuition and Fees (in-district/in-state)": "$4,144",
+    "Total Cost of Attendance (on-campus)": "$16,275"
+  },
+  {
+    "State": "California",
+    "Avg. Debt of Graduate": "$21,485",
+    "Avg. Debt Rank": 48,
+    "% of Graduates with Debt": "47%",
+    "% with Debt Rank": 44,
+    "Fall enrollment - Undergrads total": "2,457,658",
+    "Tuition and Fees (in-district/in-state)": "$10,390",
+    "Total Cost of Attendance (on-campus)": "$36,347"
+  },
+  {
+    "State": "Nevada",
+    "Avg. Debt of Graduate": "$21,254",
+    "Avg. Debt Rank": 49,
+    "% of Graduates with Debt": "46%",
+    "% with Debt Rank": 46,
+    "Fall enrollment - Undergrads total": "109,556",
+    "Tuition and Fees (in-district/in-state)": "$6,325",
+    "Total Cost of Attendance (on-campus)": "$24,475"
+  },
+  {
+    "State": "New Mexico",
+    "Avg. Debt of Graduate": "$20,991",
+    "Avg. Debt Rank": 50,
+    "% of Graduates with Debt": "45%",
+    "% with Debt Rank": 49,
+    "Fall enrollment - Undergrads total": "111,514",
+    "Tuition and Fees (in-district/in-state)": "$4,736",
+    "Total Cost of Attendance (on-campus)": "$20,791"
+  },
+  {
+    "State": "Utah",
+    "Avg. Debt of Graduate": "$17,935",
+    "Avg. Debt Rank": 51,
+    "% of Graduates with Debt": "40%",
+    "% with Debt Rank": 51,
+    "Fall enrollment - Undergrads total": "324,446",
+    "Tuition and Fees (in-district/in-state)": "$8,969",
+    "Total Cost of Attendance (on-campus)": "$20,769"
+  }
+]

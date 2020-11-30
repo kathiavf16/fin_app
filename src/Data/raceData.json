@@ -1,0 +1,2082 @@
+[
+  {
+    "stateid": "1",
+    "State": "Alabama",
+    "Households with Zero Net Worth": "9.7",
+    "Net Worth": "98230",
+    "Saved for Emergencies": "55.9",
+    "Race": "White"
+  },
+  {
+    "stateid": "41",
+    "State": "Alaska",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "74.8",
+    "Race": "White"
+  },
+  {
+    "stateid": "14",
+    "State": "Arizona",
+    "Households with Zero Net Worth": "14.4",
+    "Net Worth": "123300",
+    "Saved for Emergencies": "67",
+    "Race": "White"
+  },
+  {
+    "stateid": "13",
+    "State": "Arkansas",
+    "Households with Zero Net Worth": "17.8",
+    "Net Worth": "54600",
+    "Saved for Emergencies": "52.2",
+    "Race": "White"
+  },
+  {
+    "stateid": "42",
+    "State": "California",
+    "Households with Zero Net Worth": "12.6",
+    "Net Worth": "319390",
+    "Saved for Emergencies": "63.9",
+    "Race": "White"
+  },
+  {
+    "stateid": "25",
+    "State": "Colorado",
+    "Households with Zero Net Worth": "9.7",
+    "Net Worth": "282390",
+    "Saved for Emergencies": "73.4",
+    "Race": "White"
+  },
+  {
+    "stateid": "43",
+    "State": "Connecticut",
+    "Households with Zero Net Worth": "10.3",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "68.5",
+    "Race": "White"
+  },
+  {
+    "stateid": "45",
+    "State": "Delaware",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "68.1",
+    "Race": "White"
+  },
+  {
+    "stateid": "44",
+    "State": "District of Columbia",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "77",
+    "Race": "White"
+  },
+  {
+    "stateid": "21",
+    "State": "Florida",
+    "Households with Zero Net Worth": "14.7",
+    "Net Worth": "141476",
+    "Saved for Emergencies": "58",
+    "Race": "White"
+  },
+  {
+    "stateid": "22",
+    "State": "Georgia",
+    "Households with Zero Net Worth": "11.8",
+    "Net Worth": "123830",
+    "Saved for Emergencies": "57.8",
+    "Race": "White"
+  },
+  {
+    "stateid": "46",
+    "State": "Hawaii",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "72.7",
+    "Race": "White"
+  },
+  {
+    "stateid": "15",
+    "State": "Idaho",
+    "Households with Zero Net Worth": "10.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "59.4",
+    "Race": "White"
+  },
+  {
+    "stateid": "23",
+    "State": "Illinois",
+    "Households with Zero Net Worth": "11.1",
+    "Net Worth": "149851",
+    "Saved for Emergencies": "62.9",
+    "Race": "White"
+  },
+  {
+    "stateid": "27",
+    "State": "Indiana",
+    "Households with Zero Net Worth": "15",
+    "Net Worth": "89500",
+    "Saved for Emergencies": "64.2",
+    "Race": "White"
+  },
+  {
+    "stateid": "26",
+    "State": "Iowa",
+    "Households with Zero Net Worth": "19",
+    "Net Worth": "107973",
+    "Saved for Emergencies": "68.1",
+    "Race": "White"
+  },
+  {
+    "stateid": "28",
+    "State": "Kansas",
+    "Households with Zero Net Worth": "19.4",
+    "Net Worth": "110580",
+    "Saved for Emergencies": "65.2",
+    "Race": "White"
+  },
+  {
+    "stateid": "29",
+    "State": "Kentucky",
+    "Households with Zero Net Worth": "14.6",
+    "Net Worth": "92660",
+    "Saved for Emergencies": "50.3",
+    "Race": "White"
+  },
+  {
+    "stateid": "37",
+    "State": "Louisiana",
+    "Households with Zero Net Worth": "13.9",
+    "Net Worth": "96510",
+    "Saved for Emergencies": "57.5",
+    "Race": "White"
+  },
+  {
+    "stateid": "7",
+    "State": "Maine",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "60.8",
+    "Race": "White"
+  },
+  {
+    "stateid": "6",
+    "State": "Maryland",
+    "Households with Zero Net Worth": "10.6",
+    "Net Worth": "251900",
+    "Saved for Emergencies": "68.2",
+    "Race": "White"
+  },
+  {
+    "stateid": "47",
+    "State": "Massachusetts",
+    "Households with Zero Net Worth": "9.3",
+    "Net Worth": "202440",
+    "Saved for Emergencies": "59.4",
+    "Race": "White"
+  },
+  {
+    "stateid": "16",
+    "State": "Michigan",
+    "Households with Zero Net Worth": "15.9",
+    "Net Worth": "88469",
+    "Saved for Emergencies": "62.3",
+    "Race": "White"
+  },
+  {
+    "stateid": "17",
+    "State": "Minnesota",
+    "Households with Zero Net Worth": "9.6",
+    "Net Worth": "201600",
+    "Saved for Emergencies": "68.4",
+    "Race": "White"
+  },
+  {
+    "stateid": "30",
+    "State": "Mississippi",
+    "Households with Zero Net Worth": "12.7",
+    "Net Worth": "100350",
+    "Saved for Emergencies": "54.2",
+    "Race": "White"
+  },
+  {
+    "stateid": "2",
+    "State": "Missouri",
+    "Households with Zero Net Worth": "14",
+    "Net Worth": "131730",
+    "Saved for Emergencies": "64.1",
+    "Race": "White"
+  },
+  {
+    "stateid": "38",
+    "State": "Montana",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "69.8",
+    "Race": "White"
+  },
+  {
+    "stateid": "31",
+    "State": "Nebraska",
+    "Households with Zero Net Worth": "7.1",
+    "Net Worth": "149764",
+    "Saved for Emergencies": "71.4",
+    "Race": "White"
+  },
+  {
+    "stateid": "33",
+    "State": "Nevada",
+    "Households with Zero Net Worth": "15.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "60.7",
+    "Race": "White"
+  },
+  {
+    "stateid": "19",
+    "State": "New Hampshire",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "58.8",
+    "Race": "White"
+  },
+  {
+    "stateid": "9",
+    "State": "New Jersey",
+    "Households with Zero Net Worth": "10.4",
+    "Net Worth": "352070",
+    "Saved for Emergencies": "58.3",
+    "Race": "White"
+  },
+  {
+    "stateid": "32",
+    "State": "New Mexico",
+    "Households with Zero Net Worth": "21.6",
+    "Net Worth": "133000",
+    "Saved for Emergencies": "64.5",
+    "Race": "White"
+  },
+  {
+    "stateid": "10",
+    "State": "New York",
+    "Households with Zero Net Worth": "9.5",
+    "Net Worth": "193500",
+    "Saved for Emergencies": "56.7",
+    "Race": "White"
+  },
+  {
+    "stateid": "18",
+    "State": "North Carolina",
+    "Households with Zero Net Worth": "12.9",
+    "Net Worth": "136756",
+    "Saved for Emergencies": "62.9",
+    "Race": "White"
+  },
+  {
+    "stateid": "8",
+    "State": "North Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "59.6",
+    "Race": "White"
+  },
+  {
+    "stateid": "11",
+    "State": "Ohio",
+    "Households with Zero Net Worth": "13.6",
+    "Net Worth": "101570",
+    "Saved for Emergencies": "62",
+    "Race": "White"
+  },
+  {
+    "stateid": "34",
+    "State": "Oklahoma",
+    "Households with Zero Net Worth": "13.3",
+    "Net Worth": "83460",
+    "Saved for Emergencies": "64.7",
+    "Race": "White"
+  },
+  {
+    "stateid": "35",
+    "State": "Oregon",
+    "Households with Zero Net Worth": "19.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "71.7",
+    "Race": "White"
+  },
+  {
+    "stateid": "48",
+    "State": "Pennsylvania",
+    "Households with Zero Net Worth": "12.6",
+    "Net Worth": "149240",
+    "Saved for Emergencies": "62.9",
+    "Race": "White"
+  },
+  {
+    "stateid": "49",
+    "State": "Rhode Island",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "57.5",
+    "Race": "White"
+  },
+  {
+    "stateid": "20",
+    "State": "South Carolina",
+    "Households with Zero Net Worth": "11.2",
+    "Net Worth": "125100",
+    "Saved for Emergencies": "62.6",
+    "Race": "White"
+  },
+  {
+    "stateid": "50",
+    "State": "South Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "63.9",
+    "Race": "White"
+  },
+  {
+    "stateid": "3",
+    "State": "Tennessee",
+    "Households with Zero Net Worth": "12.8",
+    "Net Worth": "99210",
+    "Saved for Emergencies": "58.8",
+    "Race": "White"
+  },
+  {
+    "stateid": "12",
+    "State": "Texas",
+    "Households with Zero Net Worth": "11.8",
+    "Net Worth": "151080",
+    "Saved for Emergencies": "61.5",
+    "Race": "White"
+  },
+  {
+    "stateid": "0",
+    "State": "US",
+    "Households with Zero Net Worth": "12.7",
+    "Net Worth": "141825",
+    "Saved for Emergencies": "62.4",
+    "Race": "White"
+  },
+  {
+    "stateid": "4",
+    "State": "Utah",
+    "Households with Zero Net Worth": "8.7",
+    "Net Worth": "147060",
+    "Saved for Emergencies": "76.4",
+    "Race": "White"
+  },
+  {
+    "stateid": "39",
+    "State": "Vermont",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "59.2",
+    "Race": "White"
+  },
+  {
+    "stateid": "5",
+    "State": "Virginia",
+    "Households with Zero Net Worth": "12.6",
+    "Net Worth": "173668",
+    "Saved for Emergencies": "68.1",
+    "Race": "White"
+  },
+  {
+    "stateid": "36",
+    "State": "Washington",
+    "Households with Zero Net Worth": "13.5",
+    "Net Worth": "205455",
+    "Saved for Emergencies": "69.6",
+    "Race": "White"
+  },
+  {
+    "stateid": "24",
+    "State": "West Virginia",
+    "Households with Zero Net Worth": "10.3",
+    "Net Worth": "79350",
+    "Saved for Emergencies": "40.4",
+    "Race": "White"
+  },
+  {
+    "stateid": "51",
+    "State": "Wisconsin",
+    "Households with Zero Net Worth": "16",
+    "Net Worth": "127480",
+    "Saved for Emergencies": "63.1",
+    "Race": "White"
+  },
+  {
+    "stateid": "40",
+    "State": "Wyoming",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "65.5",
+    "Race": "White"
+  },
+  {
+    "stateid": "1",
+    "State": "Alabama",
+    "Households with Zero Net Worth": "21",
+    "Net Worth": "22720",
+    "Saved for Emergencies": "43.7",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "41",
+    "State": "Alaska",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "62.4",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "14",
+    "State": "Arizona",
+    "Households with Zero Net Worth": "20.5",
+    "Net Worth": "24965",
+    "Saved for Emergencies": "54.3",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "13",
+    "State": "Arkansas",
+    "Households with Zero Net Worth": "25",
+    "Net Worth": "11240",
+    "Saved for Emergencies": "45.4",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "42",
+    "State": "California",
+    "Households with Zero Net Worth": "16.2",
+    "Net Worth": "55384",
+    "Saved for Emergencies": "48.3",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "25",
+    "State": "Colorado",
+    "Households with Zero Net Worth": "21.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "53",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "43",
+    "State": "Connecticut",
+    "Households with Zero Net Worth": "41",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "47.2",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "45",
+    "State": "Delaware",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "56.2",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "44",
+    "State": "District of Columbia",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "58.9",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "21",
+    "State": "Florida",
+    "Households with Zero Net Worth": "22.6",
+    "Net Worth": "21980",
+    "Saved for Emergencies": "41.2",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "22",
+    "State": "Georgia",
+    "Households with Zero Net Worth": "23.9",
+    "Net Worth": "16790",
+    "Saved for Emergencies": "45.6",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "46",
+    "State": "Hawaii",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "54.2",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "15",
+    "State": "Idaho",
+    "Households with Zero Net Worth": "9.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "46.3",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "23",
+    "State": "Illinois",
+    "Households with Zero Net Worth": "27.3",
+    "Net Worth": "30900",
+    "Saved for Emergencies": "52.1",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "27",
+    "State": "Indiana",
+    "Households with Zero Net Worth": "36.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "51.3",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "26",
+    "State": "Iowa",
+    "Households with Zero Net Worth": "17.3",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "28",
+    "State": "Kansas",
+    "Households with Zero Net Worth": "20.3",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "39.5",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "29",
+    "State": "Kentucky",
+    "Households with Zero Net Worth": "18",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "53.6",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "37",
+    "State": "Louisiana",
+    "Households with Zero Net Worth": "22.3",
+    "Net Worth": "17000",
+    "Saved for Emergencies": "39.7",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "7",
+    "State": "Maine",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "6",
+    "State": "Maryland",
+    "Households with Zero Net Worth": "23.8",
+    "Net Worth": "97606",
+    "Saved for Emergencies": "66.9",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "47",
+    "State": "Massachusetts",
+    "Households with Zero Net Worth": "25.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "46.6",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "16",
+    "State": "Michigan",
+    "Households with Zero Net Worth": "32.1",
+    "Net Worth": "7320",
+    "Saved for Emergencies": "37.7",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "17",
+    "State": "Minnesota",
+    "Households with Zero Net Worth": "24.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "50.8",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "30",
+    "State": "Mississippi",
+    "Households with Zero Net Worth": "21.1",
+    "Net Worth": "16175",
+    "Saved for Emergencies": "36.7",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "2",
+    "State": "Missouri",
+    "Households with Zero Net Worth": "26.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "47.5",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "38",
+    "State": "Montana",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "52.5",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "31",
+    "State": "Nebraska",
+    "Households with Zero Net Worth": "4.2",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "51.7",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "33",
+    "State": "Nevada",
+    "Households with Zero Net Worth": "10",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "56.6",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "19",
+    "State": "New Hampshire",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "9",
+    "State": "New Jersey",
+    "Households with Zero Net Worth": "22.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "48.2",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "32",
+    "State": "New Mexico",
+    "Households with Zero Net Worth": "18.4",
+    "Net Worth": "31633",
+    "Saved for Emergencies": "48.3",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "10",
+    "State": "New York",
+    "Households with Zero Net Worth": "23.5",
+    "Net Worth": "24600",
+    "Saved for Emergencies": "43",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "18",
+    "State": "North Carolina",
+    "Households with Zero Net Worth": "19.7",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "51.2",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "8",
+    "State": "North Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "11",
+    "State": "Ohio",
+    "Households with Zero Net Worth": "35.3",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "46.1",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "34",
+    "State": "Oklahoma",
+    "Households with Zero Net Worth": "19.1",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "49.8",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "35",
+    "State": "Oregon",
+    "Households with Zero Net Worth": "21.1",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "60",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "48",
+    "State": "Pennsylvania",
+    "Households with Zero Net Worth": "29.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "50.7",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "49",
+    "State": "Rhode Island",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "20",
+    "State": "South Carolina",
+    "Households with Zero Net Worth": "23.1",
+    "Net Worth": "9640",
+    "Saved for Emergencies": "47.1",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "50",
+    "State": "South Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "3",
+    "State": "Tennessee",
+    "Households with Zero Net Worth": "28.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "47.7",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "12",
+    "State": "Texas",
+    "Households with Zero Net Worth": "18",
+    "Net Worth": "36500",
+    "Saved for Emergencies": "49.7",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "0",
+    "State": "US",
+    "Households with Zero Net Worth": "21.7",
+    "Net Worth": "25410",
+    "Saved for Emergencies": "48.4",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "4",
+    "State": "Utah",
+    "Households with Zero Net Worth": "12",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "61.3",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "39",
+    "State": "Vermont",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "86.2",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "5",
+    "State": "Virginia",
+    "Households with Zero Net Worth": "24",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "60.5",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "36",
+    "State": "Washington",
+    "Households with Zero Net Worth": "23",
+    "Net Worth": "29888",
+    "Saved for Emergencies": "56.7",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "24",
+    "State": "West Virginia",
+    "Households with Zero Net Worth": "18.1",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "51",
+    "State": "Wisconsin",
+    "Households with Zero Net Worth": "14.7",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "51.4",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "40",
+    "State": "Wyoming",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "50",
+    "Race": "HH of Color"
+  },
+  {
+    "stateid": "1",
+    "State": "Alabama",
+    "Households with Zero Net Worth": "24.6",
+    "Net Worth": "20157",
+    "Saved for Emergencies": "43.2",
+    "Race": "Black"
+  },
+  {
+    "stateid": "41",
+    "State": "Alaska",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "14",
+    "State": "Arizona",
+    "Households with Zero Net Worth": "53",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "13",
+    "State": "Arkansas",
+    "Households with Zero Net Worth": "27.1",
+    "Net Worth": "5520",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "42",
+    "State": "California",
+    "Households with Zero Net Worth": "28",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "42.5",
+    "Race": "Black"
+  },
+  {
+    "stateid": "25",
+    "State": "Colorado",
+    "Households with Zero Net Worth": "21.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "43",
+    "State": "Connecticut",
+    "Households with Zero Net Worth": "34.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "45",
+    "State": "Delaware",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "44",
+    "State": "District of Columbia",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "21",
+    "State": "Florida",
+    "Households with Zero Net Worth": "27",
+    "Net Worth": "21700",
+    "Saved for Emergencies": "37.2",
+    "Race": "Black"
+  },
+  {
+    "stateid": "22",
+    "State": "Georgia",
+    "Households with Zero Net Worth": "25.3",
+    "Net Worth": "20630",
+    "Saved for Emergencies": "46.4",
+    "Race": "Black"
+  },
+  {
+    "stateid": "46",
+    "State": "Hawaii",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "15",
+    "State": "Idaho",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "23",
+    "State": "Illinois",
+    "Households with Zero Net Worth": "36.7",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "47.4",
+    "Race": "Black"
+  },
+  {
+    "stateid": "27",
+    "State": "Indiana",
+    "Households with Zero Net Worth": "42.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "26",
+    "State": "Iowa",
+    "Households with Zero Net Worth": "35.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "28",
+    "State": "Kansas",
+    "Households with Zero Net Worth": "16.3",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "29",
+    "State": "Kentucky",
+    "Households with Zero Net Worth": "24.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "37",
+    "State": "Louisiana",
+    "Households with Zero Net Worth": "21.5",
+    "Net Worth": "17000",
+    "Saved for Emergencies": "37.6",
+    "Race": "Black"
+  },
+  {
+    "stateid": "7",
+    "State": "Maine",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "6",
+    "State": "Maryland",
+    "Households with Zero Net Worth": "30.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "47",
+    "State": "Massachusetts",
+    "Households with Zero Net Worth": "36.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "16",
+    "State": "Michigan",
+    "Households with Zero Net Worth": "37.4",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "17",
+    "State": "Minnesota",
+    "Households with Zero Net Worth": "55.8",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "30",
+    "State": "Mississippi",
+    "Households with Zero Net Worth": "21.1",
+    "Net Worth": "15900",
+    "Saved for Emergencies": "36",
+    "Race": "Black"
+  },
+  {
+    "stateid": "2",
+    "State": "Missouri",
+    "Households with Zero Net Worth": "36.1",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "38",
+    "State": "Montana",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "31",
+    "State": "Nebraska",
+    "Households with Zero Net Worth": "32.8",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "33",
+    "State": "Nevada",
+    "Households with Zero Net Worth": "18.1",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "19",
+    "State": "New Hampshire",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "9",
+    "State": "New Jersey",
+    "Households with Zero Net Worth": "33.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "32",
+    "State": "New Mexico",
+    "Households with Zero Net Worth": "24.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "10",
+    "State": "New York",
+    "Households with Zero Net Worth": "27.7",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "38.6",
+    "Race": "Black"
+  },
+  {
+    "stateid": "18",
+    "State": "North Carolina",
+    "Households with Zero Net Worth": "18.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "45.8",
+    "Race": "Black"
+  },
+  {
+    "stateid": "8",
+    "State": "North Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "11",
+    "State": "Ohio",
+    "Households with Zero Net Worth": "39",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "40.9",
+    "Race": "Black"
+  },
+  {
+    "stateid": "34",
+    "State": "Oklahoma",
+    "Households with Zero Net Worth": "22.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "35",
+    "State": "Oregon",
+    "Households with Zero Net Worth": "21.8",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "48",
+    "State": "Pennsylvania",
+    "Households with Zero Net Worth": "34.2",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "49",
+    "State": "Rhode Island",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "20",
+    "State": "South Carolina",
+    "Households with Zero Net Worth": "23",
+    "Net Worth": "11012",
+    "Saved for Emergencies": "42.8",
+    "Race": "Black"
+  },
+  {
+    "stateid": "50",
+    "State": "South Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "3",
+    "State": "Tennessee",
+    "Households with Zero Net Worth": "30.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "12",
+    "State": "Texas",
+    "Households with Zero Net Worth": "22.1",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "52.4",
+    "Race": "Black"
+  },
+  {
+    "stateid": "0",
+    "State": "US",
+    "Households with Zero Net Worth": "28.7",
+    "Net Worth": "12470",
+    "Saved for Emergencies": "45.7",
+    "Race": "Black"
+  },
+  {
+    "stateid": "4",
+    "State": "Utah",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "39",
+    "State": "Vermont",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "5",
+    "State": "Virginia",
+    "Households with Zero Net Worth": "32.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "36",
+    "State": "Washington",
+    "Households with Zero Net Worth": "42.4",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "24",
+    "State": "West Virginia",
+    "Households with Zero Net Worth": "10.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "51",
+    "State": "Wisconsin",
+    "Households with Zero Net Worth": "24.4",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "40",
+    "State": "Wyoming",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Black"
+  },
+  {
+    "stateid": "1",
+    "State": "Alabama",
+    "Households with Zero Net Worth": "10",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "41",
+    "State": "Alaska",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "14",
+    "State": "Arizona",
+    "Households with Zero Net Worth": "8.3",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "13",
+    "State": "Arkansas",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "42",
+    "State": "California",
+    "Households with Zero Net Worth": "6.7",
+    "Net Worth": "275490",
+    "Saved for Emergencies": "46.4",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "25",
+    "State": "Colorado",
+    "Households with Zero Net Worth": "32.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "43",
+    "State": "Connecticut",
+    "Households with Zero Net Worth": "42",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "45",
+    "State": "Delaware",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "44",
+    "State": "District of Columbia",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "21",
+    "State": "Florida",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "22",
+    "State": "Georgia",
+    "Households with Zero Net Worth": "19.7",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "46",
+    "State": "Hawaii",
+    "Households with Zero Net Worth": "8.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "55.1",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "15",
+    "State": "Idaho",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "23",
+    "State": "Illinois",
+    "Households with Zero Net Worth": "7.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "27",
+    "State": "Indiana",
+    "Households with Zero Net Worth": "8.8",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "26",
+    "State": "Iowa",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "28",
+    "State": "Kansas",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "29",
+    "State": "Kentucky",
+    "Households with Zero Net Worth": "9.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "37",
+    "State": "Louisiana",
+    "Households with Zero Net Worth": "14.7",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "7",
+    "State": "Maine",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "6",
+    "State": "Maryland",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "47",
+    "State": "Massachusetts",
+    "Households with Zero Net Worth": "14.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "16",
+    "State": "Michigan",
+    "Households with Zero Net Worth": "12.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "17",
+    "State": "Minnesota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "30",
+    "State": "Mississippi",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "2",
+    "State": "Missouri",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "38",
+    "State": "Montana",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "31",
+    "State": "Nebraska",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "33",
+    "State": "Nevada",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "19",
+    "State": "New Hampshire",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "9",
+    "State": "New Jersey",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "32",
+    "State": "New Mexico",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "10",
+    "State": "New York",
+    "Households with Zero Net Worth": "7.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "52.2",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "18",
+    "State": "North Carolina",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "8",
+    "State": "North Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "11",
+    "State": "Ohio",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "34",
+    "State": "Oklahoma",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "35",
+    "State": "Oregon",
+    "Households with Zero Net Worth": "46",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "48",
+    "State": "Pennsylvania",
+    "Households with Zero Net Worth": "14.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "49",
+    "State": "Rhode Island",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "20",
+    "State": "South Carolina",
+    "Households with Zero Net Worth": "32.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "50",
+    "State": "South Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "3",
+    "State": "Tennessee",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "12",
+    "State": "Texas",
+    "Households with Zero Net Worth": "16.8",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "0",
+    "State": "US",
+    "Households with Zero Net Worth": "7.9",
+    "Net Worth": "212511",
+    "Saved for Emergencies": "55.2",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "4",
+    "State": "Utah",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "39",
+    "State": "Vermont",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "5",
+    "State": "Virginia",
+    "Households with Zero Net Worth": "4.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "36",
+    "State": "Washington",
+    "Households with Zero Net Worth": "7.2",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "24",
+    "State": "West Virginia",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "51",
+    "State": "Wisconsin",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "40",
+    "State": "Wyoming",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Asian"
+  },
+  {
+    "stateid": "1",
+    "State": "Alabama",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "41",
+    "State": "Alaska",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "14",
+    "State": "Arizona",
+    "Households with Zero Net Worth": "18",
+    "Net Worth": "25990",
+    "Saved for Emergencies": "51.8",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "13",
+    "State": "Arkansas",
+    "Households with Zero Net Worth": "20",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "42",
+    "State": "California",
+    "Households with Zero Net Worth": "19.1",
+    "Net Worth": "21530",
+    "Saved for Emergencies": "50.2",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "25",
+    "State": "Colorado",
+    "Households with Zero Net Worth": "24.2",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "43",
+    "State": "Connecticut",
+    "Households with Zero Net Worth": "51.4",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "45",
+    "State": "Delaware",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "44",
+    "State": "District of Columbia",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "21",
+    "State": "Florida",
+    "Households with Zero Net Worth": "22.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "42.6",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "22",
+    "State": "Georgia",
+    "Households with Zero Net Worth": "15.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "46",
+    "State": "Hawaii",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "58.1",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "15",
+    "State": "Idaho",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "23",
+    "State": "Illinois",
+    "Households with Zero Net Worth": "19.4",
+    "Net Worth": "74841",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "27",
+    "State": "Indiana",
+    "Households with Zero Net Worth": "34.4",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "26",
+    "State": "Iowa",
+    "Households with Zero Net Worth": "12.2",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "28",
+    "State": "Kansas",
+    "Households with Zero Net Worth": "20.9",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "29",
+    "State": "Kentucky",
+    "Households with Zero Net Worth": "7.8",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "37",
+    "State": "Louisiana",
+    "Households with Zero Net Worth": "30.7",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "7",
+    "State": "Maine",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "6",
+    "State": "Maryland",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "47",
+    "State": "Massachusetts",
+    "Households with Zero Net Worth": "18.3",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "16",
+    "State": "Michigan",
+    "Households with Zero Net Worth": "18",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "17",
+    "State": "Minnesota",
+    "Households with Zero Net Worth": "9.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "30",
+    "State": "Mississippi",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "2",
+    "State": "Missouri",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "38",
+    "State": "Montana",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "31",
+    "State": "Nebraska",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "33",
+    "State": "Nevada",
+    "Households with Zero Net Worth": "7.1",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "19",
+    "State": "New Hampshire",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "9",
+    "State": "New Jersey",
+    "Households with Zero Net Worth": "32.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "32",
+    "State": "New Mexico",
+    "Households with Zero Net Worth": "17.1",
+    "Net Worth": "43200",
+    "Saved for Emergencies": "52.1",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "10",
+    "State": "New York",
+    "Households with Zero Net Worth": "29.6",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "43.5",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "18",
+    "State": "North Carolina",
+    "Households with Zero Net Worth": "19.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "8",
+    "State": "North Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "11",
+    "State": "Ohio",
+    "Households with Zero Net Worth": "46.8",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "34",
+    "State": "Oklahoma",
+    "Households with Zero Net Worth": "35.2",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "35",
+    "State": "Oregon",
+    "Households with Zero Net Worth": "9.4",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "48",
+    "State": "Pennsylvania",
+    "Households with Zero Net Worth": "27.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "49",
+    "State": "Rhode Island",
+    "Households with Zero Net Worth": "43.1",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "20",
+    "State": "South Carolina",
+    "Households with Zero Net Worth": "22",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "50",
+    "State": "South Dakota",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "3",
+    "State": "Tennessee",
+    "Households with Zero Net Worth": "19.8",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "12",
+    "State": "Texas",
+    "Households with Zero Net Worth": "17.1",
+    "Net Worth": "35900",
+    "Saved for Emergencies": "46.8",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "0",
+    "State": "US",
+    "Households with Zero Net Worth": "20.2",
+    "Net Worth": "20479",
+    "Saved for Emergencies": "48.2",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "4",
+    "State": "Utah",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "39",
+    "State": "Vermont",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "5",
+    "State": "Virginia",
+    "Households with Zero Net Worth": "15.5",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "36",
+    "State": "Washington",
+    "Households with Zero Net Worth": "20.3",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "24",
+    "State": "West Virginia",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "51",
+    "State": "Wisconsin",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  },
+  {
+    "stateid": "40",
+    "State": "Wyoming",
+    "Households with Zero Net Worth": "n/a",
+    "Net Worth": "n/a",
+    "Saved for Emergencies": "n/a",
+    "Race": "Latino"
+  }
+]

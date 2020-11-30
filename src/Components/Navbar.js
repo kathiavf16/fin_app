@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import logo from "../logo.svg";
+import logo from "../logo.png";
+//import NavElement from "./NavElement"
 import { Link, animateScroll as scroll } from "react-scroll";
 
 export default class Navbar extends Component {
@@ -18,40 +19,42 @@ export default class Navbar extends Component {
             onClick={this.scrollToTop}
           />
           <ul className="nav-items">
-            <li className="nav-item">
+            <li className="nav-item" >
               <Link
                 activeClass="active"
                 to="section1"
                 spy={true}
                 smooth={true}
-                offset={-70}
+                offset={-100}
                 duration={1300}
+
               >
-                Introduction
+              Introduction
               </Link>
             </li>
             <li className="nav-item">
+
               <Link
                 activeClass="active"
                 to="section2"
                 spy={true}
                 smooth={true}
-                offset={-70}
+                offset={-100}
                 duration={1300}
               >
-                U.S. Map
+              Map
               </Link>
             </li>
-            <li className="nav-item">
+            <li className="nav-item" >
               <Link
                 activeClass="active"
                 to="section3"
                 spy={true}
                 smooth={true}
-                offset={-70}
+                offset={-100}
                 duration={500}
               >
-                Datatable
+                Rankings
               </Link>
             </li>
             <li className="nav-item">
@@ -60,10 +63,11 @@ export default class Navbar extends Component {
                 to="section4"
                 spy={true}
                 smooth={true}
-                offset={-70}
+                offset={-100}
                 duration={1300}
               >
-                Demographic Metrics
+                Socioeconomic
+                Indicators
               </Link>
             </li>
             <li className="nav-item">
@@ -72,7 +76,7 @@ export default class Navbar extends Component {
                 to="section5"
                 spy={true}
                 smooth={true}
-                offset={-70}
+                offset={-100}
                 duration={1300}
               >
                 About the Data
