@@ -1,4 +1,5 @@
 import React, {memo} from "react";
+import { scaleQuantize } from "d3-scale";
 import { geoCentroid } from "d3-geo";
 import {
   ComposableMap,
@@ -25,8 +26,21 @@ const offsets = {
   DC: [49, 21]
 };
 
+const colorScale = scaleQuantize()
+  .domain([1, 10])
+  .range([
+    "#ffedea",
+    "#ffcec5",
+    "#ffad9f",
+    "#ff8a75",
+    "#ff5533",
+    "#e2492d",
+    "#be3d26",
+    "#9a311f",
+    "#782618"
+  ]);
 
-const MapChart = ({ setTooltipContent }) => {
+const MapChart = ({ setTooltipContent, setState, colorScale}) => {
   return (
     <ComposableMap data-tip="" projection="geoAlbersUsa">
       <Geographies geography={geoUrl}>
@@ -37,19 +51,29 @@ const MapChart = ({ setTooltipContent }) => {
                 key={geo.rsmKey}
                 stroke="#FFF"
                 geography={geo}
-                fill="#DDD"
+                fill={() => {
+                  const curs = allStates.find(s => s.val === geo.id);
+                  colorScale(curs ? curs.val : "#EEE")}}
                 onClick={() => {
                     const { name } = geo.properties;
                     const curs = allStates.find(s => s.val === geo.id);
                     console.log("prop:", curs, geo.properties)
-                    setTooltipContent(`${(curs.state)}`);
+                    setState(`${(curs.state)}`) //filtered value
+                    console.log("state", curs.grade, geo.properties)
+                  }}
+                  onMouseEnter={() => {
+                    const { name } = geo.properties;
+                    const curs = allStates.find(s => s.val === geo.id);
+                    console.log("prop:", curs, geo.properties)
+                    setTooltipContent(`${curs.grade} - ${(curs.state)}`); //tooltip variable
+                    console.log("state", curs.grade, geo.properties)
                   }}
                   onMouseLeave={() => {
-                    // setTooltipContent();
+                    setTooltipContent("");
                   }}
                   style={{
                     default: {
-                      fill: "#D6D6DA",
+                      fill: "grey",
                       outline: "none"
                     },
                     hover: {

@@ -3,7 +3,7 @@ import {
   BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend,
 } from 'recharts';
 
-export default function BarChartCus({data}) {
+export default function BarChartCus({data, key1, key2, xAxis, yAxis}) {
   return (
     <div className="bar-cus">
     <BarChart
@@ -15,11 +15,12 @@ export default function BarChartCus({data}) {
     }}
                   >
   <CartesianGrid strokeDasharray="3 3" />
-  <XAxis dataKey="Race" />
-  <YAxis dataKey="Net Worth"/>
+  <XAxis dataKey={xAxis} />
+  <YAxis dataKey={yAxis}/>
   <Tooltip />
   <Legend />
-  <Bar dataKey="Net Worth" fill="#8884d8" />
+  <Bar dataKey={key1} fill="#8884d8" />
+  <Bar dataKey={key2} fill="#82ca9d" />
 
 </BarChart>
 

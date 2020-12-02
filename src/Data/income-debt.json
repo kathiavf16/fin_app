@@ -1,0 +1,614 @@
+[
+  {
+    "stateid": 1,
+    "State": "Alabama",
+    "amount": 1787,
+    "type": "Debt"
+  },
+  {
+    "stateid": 41,
+    "State": "Alaska",
+    "amount": 8068,
+    "type": "Debt"
+  },
+  {
+    "stateid": 14,
+    "State": "Arizona",
+    "amount": 1937,
+    "type": "Debt"
+  },
+  {
+    "stateid": 13,
+    "State": "Arkansas",
+    "amount": 1580,
+    "type": "Debt"
+  },
+  {
+    "stateid": 42,
+    "State": "California",
+    "amount": 3825,
+    "type": "Debt"
+  },
+  {
+    "stateid": 25,
+    "State": "Colorado",
+    "amount": 2905,
+    "type": "Debt"
+  },
+  {
+    "stateid": 43,
+    "State": "Connecticut",
+    "amount": 10877,
+    "type": "Debt"
+  },
+  {
+    "stateid": 45,
+    "State": "Delaware",
+    "amount": 4641,
+    "type": "Debt"
+  },
+  {
+    "stateid": 44,
+    "State": "District of Columbia",
+    "amount": 0,
+    "type": "Debt"
+  },
+  {
+    "stateid": 21,
+    "State": "Florida",
+    "amount": 1311,
+    "type": "Debt"
+  },
+  {
+    "stateid": 22,
+    "State": "Georgia",
+    "amount": 1216,
+    "type": "Debt"
+  },
+  {
+    "stateid": 46,
+    "State": "Hawaii",
+    "amount": 6835,
+    "type": "Debt"
+  },
+  {
+    "stateid": 15,
+    "State": "Idaho",
+    "amount": 1845,
+    "type": "Debt"
+  },
+  {
+    "stateid": 23,
+    "State": "Illinois",
+    "amount": 4883,
+    "type": "Debt"
+  },
+  {
+    "stateid": 27,
+    "State": "Indiana",
+    "amount": 3238,
+    "type": "Debt"
+  },
+  {
+    "stateid": 26,
+    "State": "Iowa",
+    "amount": 1934,
+    "type": "Debt"
+  },
+  {
+    "stateid": 28,
+    "State": "Kansas",
+    "amount": 2590,
+    "type": "Debt"
+  },
+  {
+    "stateid": 29,
+    "State": "Kentucky",
+    "amount": 3201,
+    "type": "Debt"
+  },
+  {
+    "stateid": 37,
+    "State": "Louisiana",
+    "amount": 3895,
+    "type": "Debt"
+  },
+  {
+    "stateid": 7,
+    "State": "Maine",
+    "amount": 3530,
+    "type": "Debt"
+  },
+  {
+    "stateid": 6,
+    "State": "Maryland",
+    "amount": 4607,
+    "type": "Debt"
+  },
+  {
+    "stateid": 47,
+    "State": "Massachusetts",
+    "amount": 11043,
+    "type": "Debt"
+  },
+  {
+    "stateid": 16,
+    "State": "Michigan",
+    "amount": 3331,
+    "type": "Debt"
+  },
+  {
+    "stateid": 17,
+    "State": "Minnesota",
+    "amount": 2870,
+    "type": "Debt"
+  },
+  {
+    "stateid": 30,
+    "State": "Mississippi",
+    "amount": 2499,
+    "type": "Debt"
+  },
+  {
+    "stateid": 2,
+    "State": "Missouri",
+    "amount": 2986,
+    "type": "Debt"
+  },
+  {
+    "stateid": 38,
+    "State": "Montana",
+    "amount": 2572,
+    "type": "Debt"
+  },
+  {
+    "stateid": 31,
+    "State": "Nebraska",
+    "amount": 1032,
+    "type": "Debt"
+  },
+  {
+    "stateid": 33,
+    "State": "Nevada",
+    "amount": 1035,
+    "type": "Debt"
+  },
+  {
+    "stateid": 19,
+    "State": "New Hampshire",
+    "amount": 5644,
+    "type": "Debt"
+  },
+  {
+    "stateid": 9,
+    "State": "New Jersey",
+    "amount": 7371,
+    "type": "Debt"
+  },
+  {
+    "stateid": 32,
+    "State": "New Mexico",
+    "amount": 3366,
+    "type": "Debt"
+  },
+  {
+    "stateid": 10,
+    "State": "New York",
+    "amount": 7162,
+    "type": "Debt"
+  },
+  {
+    "stateid": 18,
+    "State": "North Carolina",
+    "amount": 1537,
+    "type": "Debt"
+  },
+  {
+    "stateid": 8,
+    "State": "North Dakota",
+    "amount": 3788,
+    "type": "Debt"
+  },
+  {
+    "stateid": 11,
+    "State": "Ohio",
+    "amount": 2851,
+    "type": "Debt"
+  },
+  {
+    "stateid": 34,
+    "State": "Oklahoma",
+    "amount": 2138,
+    "type": "Debt"
+  },
+  {
+    "stateid": 35,
+    "State": "Oregon",
+    "amount": 2943,
+    "type": "Debt"
+  },
+  {
+    "stateid": 48,
+    "State": "Pennsylvania",
+    "amount": 3706,
+    "type": "Debt"
+  },
+  {
+    "stateid": 49,
+    "State": "Rhode Island",
+    "amount": 8457,
+    "type": "Debt"
+  },
+  {
+    "stateid": 20,
+    "State": "South Carolina",
+    "amount": 3022,
+    "type": "Debt"
+  },
+  {
+    "stateid": 50,
+    "State": "South Dakota",
+    "amount": 3907,
+    "type": "Debt"
+  },
+  {
+    "stateid": 3,
+    "State": "Tennessee",
+    "amount": 888,
+    "type": "Debt"
+  },
+  {
+    "stateid": 12,
+    "State": "Texas",
+    "amount": 1729,
+    "type": "Debt"
+  },
+  {
+    "stateid": 4,
+    "State": "Utah",
+    "amount": 2271,
+    "type": "Debt"
+  },
+  {
+    "stateid": 39,
+    "State": "Vermont",
+    "amount": 5577,
+    "type": "Debt"
+  },
+  {
+    "stateid": 5,
+    "State": "Virginia",
+    "amount": 3226,
+    "type": "Debt"
+  },
+  {
+    "stateid": 36,
+    "State": "Washington",
+    "amount": 4287,
+    "type": "Debt"
+  },
+  {
+    "stateid": 24,
+    "State": "West Virginia",
+    "amount": 4244,
+    "type": "Debt"
+  },
+  {
+    "stateid": 51,
+    "State": "Wisconsin",
+    "amount": 3974,
+    "type": "Debt"
+  },
+  {
+    "stateid": 40,
+    "State": "Wyoming",
+    "amount": 1357,
+    "type": "Debt"
+  },
+  {
+    "stateid": 1,
+    "State": "Alabama",
+    "amount": 67243,
+    "type": "Income"
+  },
+  {
+    "stateid": 41,
+    "State": "Alaska",
+    "amount": 96499,
+    "type": "Income"
+  },
+  {
+    "stateid": 14,
+    "State": "Arizona",
+    "amount": 77221,
+    "type": "Income"
+  },
+  {
+    "stateid": 13,
+    "State": "Arkansas",
+    "amount": 64272,
+    "type": "Income"
+  },
+  {
+    "stateid": 42,
+    "State": "California",
+    "amount": 101493,
+    "type": "Income"
+  },
+  {
+    "stateid": 25,
+    "State": "Colorado",
+    "amount": 92520,
+    "type": "Income"
+  },
+  {
+    "stateid": 43,
+    "State": "Connecticut",
+    "amount": 109693,
+    "type": "Income"
+  },
+  {
+    "stateid": 45,
+    "State": "Delaware",
+    "amount": 86962,
+    "type": "Income"
+  },
+  {
+    "stateid": 44,
+    "State": "District of Columbia",
+    "amount": 121698,
+    "type": "Income"
+  },
+  {
+    "stateid": 21,
+    "State": "Florida",
+    "amount": 76652,
+    "type": "Income"
+  },
+  {
+    "stateid": 22,
+    "State": "Georgia",
+    "amount": 78574,
+    "type": "Income"
+  },
+  {
+    "stateid": 46,
+    "State": "Hawaii",
+    "amount": 99765,
+    "type": "Income"
+  },
+  {
+    "stateid": 15,
+    "State": "Idaho",
+    "amount": 70620,
+    "type": "Income"
+  },
+  {
+    "stateid": 23,
+    "State": "Illinois",
+    "amount": 88857,
+    "type": "Income"
+  },
+  {
+    "stateid": 27,
+    "State": "Indiana",
+    "amount": 71912,
+    "type": "Income"
+  },
+  {
+    "stateid": 26,
+    "State": "Iowa",
+    "amount": 75951,
+    "type": "Income"
+  },
+  {
+    "stateid": 28,
+    "State": "Kansas",
+    "amount": 77509,
+    "type": "Income"
+  },
+  {
+    "stateid": 29,
+    "State": "Kentucky",
+    "amount": 67110,
+    "type": "Income"
+  },
+  {
+    "stateid": 37,
+    "State": "Louisiana",
+    "amount": 68823,
+    "type": "Income"
+  },
+  {
+    "stateid": 7,
+    "State": "Maine",
+    "amount": 73210,
+    "type": "Income"
+  },
+  {
+    "stateid": 6,
+    "State": "Maryland",
+    "amount": 107482,
+    "type": "Income"
+  },
+  {
+    "stateid": 47,
+    "State": "Massachusetts",
+    "amount": 106627,
+    "type": "Income"
+  },
+  {
+    "stateid": 16,
+    "State": "Michigan",
+    "amount": 75352,
+    "type": "Income"
+  },
+  {
+    "stateid": 17,
+    "State": "Minnesota",
+    "amount": 90600,
+    "type": "Income"
+  },
+  {
+    "stateid": 30,
+    "State": "Mississippi",
+    "amount": 60640,
+    "type": "Income"
+  },
+  {
+    "stateid": 2,
+    "State": "Missouri",
+    "amount": 73145,
+    "type": "Income"
+  },
+  {
+    "stateid": 38,
+    "State": "Montana",
+    "amount": 70959,
+    "type": "Income"
+  },
+  {
+    "stateid": 31,
+    "State": "Nebraska",
+    "amount": 77278,
+    "type": "Income"
+  },
+  {
+    "stateid": 33,
+    "State": "Nevada",
+    "amount": 77319,
+    "type": "Income"
+  },
+  {
+    "stateid": 19,
+    "State": "New Hampshire",
+    "amount": 95876,
+    "type": "Income"
+  },
+  {
+    "stateid": 9,
+    "State": "New Jersey",
+    "amount": 110140,
+    "type": "Income"
+  },
+  {
+    "stateid": 32,
+    "State": "New Mexico",
+    "amount": 66565,
+    "type": "Income"
+  },
+  {
+    "stateid": 10,
+    "State": "New York",
+    "amount": 97424,
+    "type": "Income"
+  },
+  {
+    "stateid": 18,
+    "State": "North Carolina",
+    "amount": 73753,
+    "type": "Income"
+  },
+  {
+    "stateid": 8,
+    "State": "North Dakota",
+    "amount": 84043,
+    "type": "Income"
+  },
+  {
+    "stateid": 11,
+    "State": "Ohio",
+    "amount": 74109,
+    "type": "Income"
+  },
+  {
+    "stateid": 34,
+    "State": "Oklahoma",
+    "amount": 70262,
+    "type": "Income"
+  },
+  {
+    "stateid": 35,
+    "State": "Oregon",
+    "amount": 80040,
+    "type": "Income"
+  },
+  {
+    "stateid": 48,
+    "State": "Pennsylvania",
+    "amount": 81549,
+    "type": "Income"
+  },
+  {
+    "stateid": 49,
+    "State": "Rhode Island",
+    "amount": 85527,
+    "type": "Income"
+  },
+  {
+    "stateid": 20,
+    "State": "South Carolina",
+    "amount": 70093,
+    "type": "Income"
+  },
+  {
+    "stateid": 50,
+    "State": "South Dakota",
+    "amount": 73768,
+    "type": "Income"
+  },
+  {
+    "stateid": 3,
+    "State": "Tennessee",
+    "amount": 71458,
+    "type": "Income"
+  },
+  {
+    "stateid": 12,
+    "State": "Texas",
+    "amount": 84221,
+    "type": "Income"
+  },
+  {
+    "stateid": 4,
+    "State": "Utah",
+    "amount": 87053,
+    "type": "Income"
+  },
+  {
+    "stateid": 39,
+    "State": "Vermont",
+    "amount": 78472,
+    "type": "Income"
+  },
+  {
+    "stateid": 5,
+    "State": "Virginia",
+    "amount": 98000,
+    "type": "Income"
+  },
+  {
+    "stateid": 36,
+    "State": "Washington",
+    "amount": 93847,
+    "type": "Income"
+  },
+  {
+    "stateid": 24,
+    "State": "West Virginia",
+    "amount": 61225,
+    "type": "Income"
+  },
+  {
+    "stateid": 51,
+    "State": "Wisconsin",
+    "amount": 77687,
+    "type": "Income"
+  },
+  {
+    "stateid": 40,
+    "State": "Wyoming",
+    "amount": 79257,
+    "type": "Income"
+  }
+]

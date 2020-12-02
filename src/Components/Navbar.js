@@ -29,7 +29,7 @@ export default class Navbar extends Component {
                 duration={1300}
 
               >
-              Introduction
+              Intro
               </Link>
             </li>
             <li className="nav-item">
@@ -66,7 +66,6 @@ export default class Navbar extends Component {
                 offset={-100}
                 duration={1300}
               >
-                Socioeconomic
                 Indicators
               </Link>
             </li>
@@ -74,6 +73,18 @@ export default class Navbar extends Component {
               <Link
                 activeClass="active"
                 to="section5"
+                spy={true}
+                smooth={true}
+                offset={-100}
+                duration={1300}
+              >
+                Next Steps
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
+                activeClass="active"
+                to="section6"
                 spy={true}
                 smooth={true}
                 offset={-100}

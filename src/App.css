@@ -16,8 +16,8 @@ font-family: 'Playfair Display', serif;
 :root {
   --off-white: #a7c957;
   /* data table colors */
-  --rft-main-color: #5d0444;
-  --rft-button-color: #5d0444;
+  --rft-main-color: #111d13;
+  --rft-button-color: #111d13;
   --rft-even-row-color: #fefae0;
 }
 .nav {
