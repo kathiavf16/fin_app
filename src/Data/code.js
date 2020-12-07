@@ -9,7 +9,20 @@ import dummyText from "./DummyText"
 import GeoChart from "./Components/GeoChart"
 import USAMap from "react-usa-map";
 
+other={
+  <Iframe url="https://player.cnbc.com/p/gZWlPC/cnbc_global?playertype=synd&byGuid=7000065026"
+    width="450px"
+    height="250px"
+    id="myId"
+    className="myClassname"
+    display="initial"
+    position="relative"/>
 
+}
+
+subcontent2={<Piech data={stocks}/>}
+subcontent3={<Piech data={stocks}/>}
+other={<Piech data={stocks}/>}
 content={<ReactFlexyTable data={[]}/>}
 subcontent={
   <div>

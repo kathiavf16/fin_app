@@ -52,7 +52,7 @@ export default class Navbar extends Component {
                 spy={true}
                 smooth={true}
                 offset={-100}
-                duration={500}
+                duration={1300}
               >
                 Rankings
               </Link>

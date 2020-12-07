@@ -68,7 +68,7 @@
     "state": "New Jersey",
     "val": "34",
     "region": "Northeast",
-    "division": "Middle Atlantic",
+    "division": " Atlantic",
     "grade": "B"
   },
   {
@@ -76,7 +76,7 @@
     "state": "New York",
     "val": "36",
     "region": "Northeast",
-    "division": "Middle Atlantic",
+    "division": "Mid Atlantic",
     "grade": "B"
   },
   {
@@ -380,7 +380,7 @@
     "state": "Pennsylvania",
     "val": "42",
     "region": "Northeast",
-    "division": "Middle Atlantic",
+    "division": "Mid Atlantic",
     "grade": "F"
   },
   {

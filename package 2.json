@@ -1,0 +1,61 @@
+{
+  "name": "my_app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://kathiavf16.github.io/fin_app",
+  "dependencies": {
+    "@brainhubeu/react-carousel": "^1.19.26",
+    "@kathiavf16/understanding-the-time-value-of-money-tmv": "https://api.observablehq.com/@kathiavf16/understanding-the-time-value-of-money-tmv.tgz?v=3",
+    "@observablehq/runtime": "^4.8.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "babel-loader": "^8.0.0-beta.0",
+    "d3": "^6.2.0",
+    "f8ba838a6b24b130": "https://api.observablehq.com/d/f8ba838a6b24b130.tgz?v=3",
+    "ml5": "^0.4.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-flexy-table": "^1.3.6",
+    "react-fluid-table": "^0.4.2",
+    "react-iframe": "^1.8.0",
+    "react-onclickoutside": "^6.9.0",
+    "react-responsive-carousel": "^3.2.10",
+    "react-scripts": "3.4.4",
+    "react-simple-maps": "^2.3.0",
+    "react-tooltip": "^4.2.10",
+    "react-usa-map": "1.5.0",
+    "reactjs-popup": "^2.0.4",
+    "recharts": "^1.8.5",
+    "resize-observer-polyfill": "^1.5.1",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "standard": "^16.0.1"
+  }
+}

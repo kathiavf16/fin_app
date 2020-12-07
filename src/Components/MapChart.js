@@ -9,7 +9,7 @@ import {
   Annotation
 } from "react-simple-maps";
 
-import allStates from "../Data/jstates.json";
+import allStates from "../Data/statesk.json";
 
 const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
 //const [content, setContent] = useState("");
@@ -40,7 +40,7 @@ const colorScale = scaleQuantize()
     "#782618"
   ]);
 
-const MapChart = ({ setTooltipContent, setState, colorScale}) => {
+const MapChart = ({ setTooltipContent, setState, setRegion, colorScale, setStock}) => {
   return (
     <ComposableMap data-tip="" projection="geoAlbersUsa">
       <Geographies geography={geoUrl}>
@@ -59,6 +59,8 @@ const MapChart = ({ setTooltipContent, setState, colorScale}) => {
                     const curs = allStates.find(s => s.val === geo.id);
                     console.log("prop:", curs, geo.properties)
                     setState(`${(curs.state)}`) //filtered value
+                    setRegion(`${(curs.division)}`)
+                    setStock(`${(curs.division)}`)
                     console.log("state", curs.grade, geo.properties)
                   }}
                   onMouseEnter={() => {

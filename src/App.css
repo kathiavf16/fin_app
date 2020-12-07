@@ -4,7 +4,7 @@
 
 
 body{
-  background-color: #fefae0;
+  background-color: #f9e0ae;
   vertical-align: baseline;
 
 }
@@ -80,7 +80,10 @@ font-family: 'Playfair Display', serif;
   color: #111d13;
   text-align: center;
 }
-.section .Subcontent{
+
+/* section elements */
+
+/* .section .Subcontent{
   text-align: left;
   height: 500px;
 }
@@ -94,8 +97,53 @@ font-family: 'Playfair Display', serif;
   right: -50%;
   top: -80%
 
+} */
+.recharts-wrapper{
+  margin: 0 0 0 0
 }
 
+#section2.other {
+  width: 400px;
+  margin: 0 0 0 0;
+  left: 60%;
+  position: absolute;
+
+}
+#section2.subcontent3 {
+  width: 400px;
+  margin: 0 0 0 0;
+  right: 60%;
+  position: absolute;
+
+}
+#section2.Subcontent {
+  width: 400px;
+  margin: 0 0 0 0;
+  right: 0%;
+  position: relative;
+
+}
+#section2.content {
+  width: 80%;
+
+  position: relative;
+
+}
+
+#section4.subcontent2 {
+  width: 400px;
+  margin: 0 0 0 0;
+  right: -60%;
+  top: -80%;
+  position: relative;
+}
+
+#section4.subcontent{
+  width: 400px;
+  margin: 0 0 0 0;
+
+  position: absolute;
+}
 .section-content {
   max-width: 1100px;
   margin: 0 auto;

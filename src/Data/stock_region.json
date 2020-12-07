@@ -1,0 +1,92 @@
+[
+  {
+    "STOCK": "Yes",
+    "DIVISION": "South Atlantic",
+    "VALUE": 1117
+  },
+  {
+    "STOCK": "Yes",
+    "DIVISION": "Pacific",
+    "VALUE": 906
+  },
+  {
+    "STOCK": "Yes",
+    "DIVISION": "East North Central",
+    "VALUE": 880
+  },
+  {
+    "STOCK": "Yes",
+    "DIVISION": "Mid Atlantic",
+    "VALUE": 718
+  },
+  {
+    "STOCK": "Yes",
+    "DIVISION": "West South Central",
+    "VALUE": 537
+  },
+  {
+    "STOCK": "Yes",
+    "DIVISION": "Mountain",
+    "VALUE": 423
+  },
+  {
+    "STOCK": "Yes",
+    "DIVISION": "West North Central",
+    "VALUE": 413
+  },
+  {
+    "STOCK": "Yes",
+    "DIVISION": "New England",
+    "VALUE": 298
+  },
+  {
+    "STOCK": "Yes",
+    "DIVISION": "East South Central",
+    "VALUE": 267
+  },
+  {
+    "STOCK": "No",
+    "DIVISION": "South Atlantic",
+    "VALUE": 179
+  },
+  {
+    "STOCK": "No",
+    "DIVISION": "Pacific",
+    "VALUE": 139
+  },
+  {
+    "STOCK": "No",
+    "DIVISION": "Mid Atlantic",
+    "VALUE": 122
+  },
+  {
+    "STOCK": "No",
+    "DIVISION": "East North Central",
+    "VALUE": 121
+  },
+  {
+    "STOCK": "No",
+    "DIVISION": "West South Central",
+    "VALUE": 116
+  },
+  {
+    "STOCK": "No",
+    "DIVISION": "West North Central",
+    "VALUE": 47
+  },
+  {
+    "STOCK": "No",
+    "DIVISION": "Mountain",
+    "VALUE": 46
+  },
+  {
+    "STOCK": "No",
+    "DIVISION": "East South Central",
+    "VALUE": 41
+  },
+  {
+    "STOCK": "No",
+    "DIVISION": "New England",
+    "VALUE": 24
+  }
+]

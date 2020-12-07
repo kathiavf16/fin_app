@@ -8,19 +8,21 @@ export default function BarChartCus({data, key1, key2, xAxis, yAxis}) {
     <div className="bar-cus">
     <BarChart
       width={600}
+      layout="vertical"
       height={300}
       data={data}
       margin={{
-    top: 5, right: 30, left: 20, bottom: 5,
+    top: 5, right: 0, left: 55, bottom: 5,
     }}
                   >
+
   <CartesianGrid strokeDasharray="3 3" />
-  <XAxis dataKey={xAxis} />
-  <YAxis dataKey={yAxis}/>
+  <XAxis type="number" dataKey={xAxis} />
+  <YAxis type="category" dataKey={yAxis}/>
   <Tooltip />
   <Legend />
-  <Bar dataKey={key1} fill="#8884d8" />
-  <Bar dataKey={key2} fill="#82ca9d" />
+  <Bar dataKey={key1} fill="#C34A36" />
+
 
 </BarChart>
 
