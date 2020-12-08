@@ -150,7 +150,8 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
           text={<div><p>Having enough savings to afford a comfortable retirement has been an issue for a long time now. In fact, some economists have
             recently estimated that millennials will face even a harder challenge and should save almost half of their income if they wish to retire at
             65. However, the good news is that some parts of the country are friendlier on the wallet than others when it comes to retirement.</p></div>}
-          titlesubcontent={"Best 5 States for Retirement"}
+          placeholder={"Search for states using the search bar on the table"}
+          titlesubcontent={<div>Best 5 States for Retirement</div>}
           subcontent={<CustomBar/>}
           titlesubcontent2={"Worst 5 States for Retirement"}
           subcontent2={<CustomBar2/>}
@@ -158,9 +159,19 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
           id="section4"
         />
         <Section
-          sectiontitle={"Steps for Financial Wellness"}
-          title="Steps for Financial Wellness"
+          sectiontitle={"Steps to Prepare for Retirement"}
+          title="Steps to Prepare for Retirement"
+          text={<div>
+          <h3>Start saving, keep saving, and stick to your goals</h3>
+          <p>Make saving for retirement a priority. Devise a plan, stick to it, and set goals. Remember, it’s
+             never too early or too late to start saving. Retirement is expensive. Experts estimate that you
+             will need 70 to 90 percent of your preretirement income to maintain your standard of living when you
+             stop working. Take charge of your financial future.</p>
 
+           <p>The key to a secure retirement is to plan ahead. Use the Retirement calculator below to
+           estimate how much your money can grow over time.</p>
+
+          </div>}
           content={
             <Iframe width="80%"
               height="855"

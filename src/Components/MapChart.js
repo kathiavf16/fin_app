@@ -47,12 +47,14 @@ const MapChart = ({ setTooltipContent, setState, setRegion, colorScale, setStock
         {({ geographies }) => (
           <>
             {geographies.map(geo => (
+
               <Geography
                 key={geo.rsmKey}
                 stroke="#FFF"
                 geography={geo}
                 fill={() => {
                   const curs = allStates.find(s => s.val === geo.id);
+                  console.log("color:", curs, geo.properties)
                   colorScale(curs ? curs.val : "#EEE")}}
                 onClick={() => {
                     const { name } = geo.properties;
@@ -79,7 +81,7 @@ const MapChart = ({ setTooltipContent, setState, setRegion, colorScale, setStock
                   }}
                   style={{
                     default: {
-                      fill: "grey",
+                      fill: "#9f5f80",
                       outline: "none"
                     },
                     hover: {

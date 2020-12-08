@@ -13,6 +13,7 @@ body{
 h1{
 font-family: 'Playfair Display', serif;
 font-size: 2.6em;
+color: #839b97;
 
 }
 /* nav bar */
@@ -177,6 +178,15 @@ p{
   width: 400px;
   margin: 0 0 0 0;
   position: absolute;
+}
+#section4.placeholder {
+   font-style: italic;
+   font-weight: bold;
+   font-size: 1.2em;
+   color: #8f384d;
+   font-family: 'Montserrat', sans-serif;
+   text-align: left;
+   background-color: white;
 }
 
 .pa{

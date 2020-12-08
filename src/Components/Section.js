@@ -13,12 +13,12 @@ export default function Section({ content2, placeholder, regionselection, other,
         <h1>{title}</h1>
         <br></br><br></br>
         <div>{text}</div>
+        <br></br><br></br>
         <div className="subcontent3" id={id}>{subcontent3}</div>
         <div className="other" id={id}>{other}</div>
         <div className="other2" id={id}>{other2}</div>
-        <br></br>
-        <div className="placeholder" id={id}>{placeholder}</div>
         <br></br><br></br><br></br>
+        <div className="placeholder" id={id}>{placeholder}</div>
         <div className="content" id={id}><p>{titlecontent}</p>{content}</div>
         <br></br><br></br>
         <div className="content2" id={id}><p>{titlecontent}</p>{content2}</div>
