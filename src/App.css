@@ -1,20 +1,27 @@
 /* DOM properties */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 
 
 body{
-  background-color: #f9e0ae;
+  background-color: #f9f7cf;
   vertical-align: baseline;
 
 }
 h1{
 font-family: 'Playfair Display', serif;
+font-size: 2.6em;
+
 }
 /* nav bar */
 
+p{
+  font-size: 1.2em;
+}
+
 :root {
-  --off-white: #a7c957;
+  --off-white: #58b368;
   /* data table colors */
   --rft-main-color: #111d13;
   --rft-button-color: #111d13;
@@ -63,7 +70,7 @@ font-family: 'Playfair Display', serif;
 }
 
 .nav-item:hover {
-  color: black;
+  color: #f9f7cf;;
   cursor: pointer;
 }
 
@@ -81,39 +88,55 @@ font-family: 'Playfair Display', serif;
   text-align: center;
 }
 
-/* section elements */
-
-/* .section .Subcontent{
-  text-align: left;
-  height: 500px;
-}
-
-.section .subcontent2{
-  width: 200px;
-  text-align: left;
-  margin: 0%;
-  top: 10%;
-  position: relative;
-  right: -50%;
-  top: -80%
-
-} */
 .recharts-wrapper{
   margin: 0 0 0 0
 }
+#section1.subcontent3{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1em;
+  color: orange;
+  padding: 1%;
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#section1.subcontent{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.6em;
+  color: #8f384d;
+  padding: 1%;
+  font-family: 'Montserrat', sans-serif
+}
 
 #section2.other {
-  width: 400px;
+  width: 50%;
   margin: 0 0 0 0;
-  left: 60%;
+  left: 50%;
   position: absolute;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: green;
+
+}
+#section2.other2 {
+  width: 50%;
+  margin: 0 0 0 0;
+  right: 50%;
+  position: absolute;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: green;
 
 }
 #section2.subcontent3 {
-  width: 400px;
-  margin: 0 0 0 0;
-  right: 60%;
-  position: absolute;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.6em;
+  color: #8f384d;
+  padding: 1%;
+  font-family: 'Montserrat', sans-serif
 
 }
 #section2.Subcontent {
@@ -124,12 +147,23 @@ font-family: 'Playfair Display', serif;
 
 }
 #section2.content {
-  width: 80%;
-
+  width: 75%;
+  margin: 0 0 0 0;
   position: relative;
+  right: 5%;
+  display: inline-block;
 
 }
+#section3.content2 {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1em;
+  color: orange;
+  padding: 1%;
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
 
+}
 #section4.subcontent2 {
   width: 400px;
   margin: 0 0 0 0;
@@ -141,8 +175,13 @@ font-family: 'Playfair Display', serif;
 #section4.subcontent{
   width: 400px;
   margin: 0 0 0 0;
-
   position: absolute;
+}
+
+.pa{
+  font-weight: bolder;
+  font-size: 1.4em;
+
 }
 .section-content {
   max-width: 1100px;
@@ -219,7 +258,8 @@ path:hover {
    height: 700px;
    background: #333;
    color: #fefae0;
-   font-size: 30px;
+   font-weight: bold;
+   font-size: 50px;
    margin: 0 20px;
    display: flex;
    justify-content: center;

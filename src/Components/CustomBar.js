@@ -49,7 +49,8 @@ export default function CustomBar (){
         <CartesianGrid strokeDasharray="3 3" />
         <XAxis dataKey="abbr" angle={0} />
         <YAxis />
-        <Bar dataKey="Yearly Expenses +65yo" fill="#8884d8" shape={<TriangleBar />} label={{ position: 'top' }}>
+        <Tooltip />
+        <Bar dataKey="Yearly Expenses +65yo" fill="#58b368" shape={<TriangleBar />} label={{ position: 'top' }}>
           {
             filteredata.map((entry, index) => (
               <Cell key={`cell-${index}`} fill={colors[index % 10]} />

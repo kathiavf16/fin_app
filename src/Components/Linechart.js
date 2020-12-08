@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
 import {
-  LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend,
+  LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer,
 } from 'recharts';
 import data from "../Data/wealth_gen.json"
 
@@ -9,6 +9,8 @@ export default class Example extends PureComponent {
 
   render() {
     return (
+      <div style={{ width: '90%', height: 700 }}>
+      <ResponsiveContainer>
       <LineChart
         width={1000}
         height={600}
@@ -26,9 +28,9 @@ export default class Example extends PureComponent {
         <Line type="monotone" dataKey="GenX" stroke="#ffa36c" strokeWidth={2} activeDot={{ r: 10 }}/>
         <Line type="monotone" dataKey="Millennial" stroke="#a20a0a" activeDot={{ r: 12 }} strokeWidth={2} />
         <Line type="monotone" dataKey="Silent" stroke="#045762" activeDot={{ r: 8 }} strokeWidth={2}/>
-
-
       </LineChart>
+    </ResponsiveContainer>
+  </div>
     );
   }
 }

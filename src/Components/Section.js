@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Section({ regionselection, other, sectiontitle, title, titlecontent,titlesubcontent, content,titlesubcontent2, subcontent, subcontent2, subcontent3, dark, id, selection, text }) {
+export default function Section({ content2, placeholder, regionselection, other,other2, sectiontitle, title, titlecontent,titlesubcontent, content,titlesubcontent2, subcontent, subcontent2, subcontent3, dark, id, selection, text }) {
   return (
     <div className={"section" + (dark ? " section-dark" : "")}>
       <div class="title">
@@ -8,18 +8,23 @@ export default function Section({ regionselection, other, sectiontitle, title, t
       </div>
       <br></br>
 
-        <div className="other" id={id}>{other}</div>
+
         <div className="section-content" id={id}>
         <h1>{title}</h1>
         <br></br><br></br>
         <div>{text}</div>
-        <br></br><br></br>
         <div className="subcontent3" id={id}>{subcontent3}</div>
+        <div className="other" id={id}>{other}</div>
+        <div className="other2" id={id}>{other2}</div>
+        <br></br>
+        <div className="placeholder" id={id}>{placeholder}</div>
         <br></br><br></br><br></br>
         <div className="content" id={id}><p>{titlecontent}</p>{content}</div>
-        <div className="subcontent" id={id}>{titlesubcontent}{subcontent}</div>
-        <div className="subcontent2" id={id}>{titlesubcontent2}{subcontent2}</div>
-        <br></br><br></br><br></br><br></br><br></br><br></br>
+        <br></br><br></br>
+        <div className="content2" id={id}><p>{titlecontent}</p>{content2}</div>
+        <br></br><br></br><br></br>
+        <div className="subcontent" id={id}><p className="pa">{titlesubcontent}</p>{subcontent}</div>
+        <div className="subcontent2" id={id}><p className="pa">{titlesubcontent2}</p>{subcontent2}</div>
       </div>
     </div>
   );

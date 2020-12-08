@@ -40,7 +40,7 @@ const colorScale = scaleQuantize()
     "#782618"
   ]);
 
-const MapChart = ({ setTooltipContent, setState, setRegion, colorScale, setStock}) => {
+const MapChart = ({ setTooltipContent, setState, setRegion, colorScale, setStock, setIncome1, setIncome99, setGrade, setCoefficient}) => {
   return (
     <ComposableMap data-tip="" projection="geoAlbersUsa">
       <Geographies geography={geoUrl}>
@@ -61,7 +61,11 @@ const MapChart = ({ setTooltipContent, setState, setRegion, colorScale, setStock
                     setState(`${(curs.state)}`) //filtered value
                     setRegion(`${(curs.division)}`)
                     setStock(`${(curs.division)}`)
-                    console.log("state", curs.grade, geo.properties)
+                    setIncome1(`${(curs.Average_income_of_the_top_1)}`)
+                    setIncome99(`${(curs.Average_income_of_the_bottom_99)}`)
+                    setGrade(`${(curs.grade)}`)
+                    setCoefficient(`${(curs.top_bottom_ratio)}`)
+                    console.log("state", curs.grade, geo.properties, curs.Average_income_of_the_top_1)
                   }}
                   onMouseEnter={() => {
                     const { name } = geo.properties;
