@@ -7,6 +7,7 @@
 body{
   background-color: #f9f7cf;
   vertical-align: baseline;
+  font-weight: bold;
 
 }
 h1{
@@ -147,7 +148,7 @@ p{
 
 }
 #section2.content {
-  width: 75%;
+  width: 90%;
   margin: 0 0 0 0;
   position: relative;
   right: 5%;

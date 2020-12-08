@@ -65,7 +65,7 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
           placeholder={<div><p>The slide show below shows 10 eye-opening financial literacy stats. These stats represent the main issues Americans
           struggle with nowadays, and action needs to be taken to achieve a comfortable retirement.</p></div>}
           title="Wealth and Financial Literacy - Are Gen Z and Millenials Ready For The Future?"
-          subcontent={"After learning about the main financial concerns of American lets learn about income inequality..."}
+          subcontent={"After learning about the main financial concerns of Americans lets learn about income inequality..."}
           subcontent2={""}
           content={<Carousel showArrows={true} showThumbs={false}>
             <Card
