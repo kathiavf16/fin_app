@@ -5,7 +5,7 @@
 
 
 body{
-  background-color: #fefae0;
+  background-color: #fbf6f0;
   vertical-align: baseline;
   font-weight: bold;
 
@@ -13,13 +13,14 @@ body{
 h1{
 font-family: 'Playfair Display', serif;
 font-size: 2.6em;
-color: #839b97;
+color: #532e1c;
 
 }
 /* nav bar */
 
 p{
   font-size: 1.2em;
+  text-align: left;
 }
 
 :root {
@@ -41,7 +42,7 @@ p{
   box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.15);
 }
 .nav a{
-  color: #fefae0;
+  color: #fbf6f0;
   font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
 }
@@ -77,7 +78,7 @@ p{
 }
 
 .nav-item:hover {
-  color: #f9f7cf;;
+  color: #f9f7cf;
   cursor: pointer;
 }
 
@@ -90,7 +91,7 @@ p{
 
 .section-dark {
   font-family: 'Noto Serif', serif;
-  background: #fefae0;
+  background: #fbf6f0;
   color: #111d13;
   text-align: center;
 }
@@ -127,6 +128,14 @@ p{
   color: green;
 
 }
+#section2.other p {
+  text-align: center;
+}
+
+#section2.other2 p {
+  text-align: center;
+}
+
 #section2.other2 {
   width: 50%;
   margin: 0 0 0 0;

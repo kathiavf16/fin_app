@@ -1,522 +1,470 @@
 [
   {
-    "stateid": 0,
-    "State": "U.S. Average",
-    "Retirement Age": 64,
-    "Cost of Living Index": 100,
-    "Yearly Expenses +65yo": "$51,624",
-    "With +20%": "$61,949",
-    "Life Expectancy By State": 78.6,
-    "Savings Required": "$904,452"
-  },
-  {
-    "stateid": 41,
-    "State": "Alaska",
-    "Retirement Age": 61,
-    "Cost of Living Index": 1.297,
-    "Yearly Expenses +65yo": "$66,956",
-    "With +20%": "$80,348",
-    "Life Expectancy By State": 77.7,
-    "Savings Required": "$1,341,805"
-  },
-  {
-    "stateid": 24,
-    "State": "West Virginia",
-    "Retirement Age": 61,
-    "Cost of Living Index": 0.921,
-    "Yearly Expenses +65yo": "$47,546",
-    "With +20%": "$57,055",
-    "Life Expectancy By State": 74.8,
-    "Savings Required": "$787,357"
-  },
-  {
-    "stateid": 1,
-    "State": "Alabama",
-    "Retirement Age": 62,
-    "Cost of Living Index": 0.892,
-    "Yearly Expenses +65yo": "$46,049",
-    "With +20%": "$55,258",
-    "Life Expectancy By State": 74.9,
-    "Savings Required": "$712,832"
-  },
-  {
-    "stateid": 13,
-    "State": "Arkansas",
-    "Retirement Age": 62,
-    "Cost of Living Index": 0.877,
-    "Yearly Expenses +65yo": "$45,274",
-    "With +20%": "$54,329",
-    "Life Expectancy By State": 75.4,
-    "Savings Required": "$728,010"
-  },
-  {
-    "stateid": 29,
-    "State": "Kentucky",
-    "Retirement Age": 62,
-    "Cost of Living Index": 0.917,
-    "Yearly Expenses +65yo": "$47,339",
-    "With +20%": "$56,807",
-    "Life Expectancy By State": 75,
-    "Savings Required": "$738,492"
-  },
-  {
-    "stateid": 37,
-    "State": "Louisiana",
-    "Retirement Age": 62,
-    "Cost of Living Index": 0.936,
-    "Yearly Expenses +65yo": "$48,320",
-    "With +20%": "$57,984",
-    "Life Expectancy By State": 75.4,
-    "Savings Required": "$776,987"
-  },
-  {
-    "stateid": 16,
-    "State": "Michigan",
-    "Retirement Age": 62,
-    "Cost of Living Index": 0.895,
-    "Yearly Expenses +65yo": "$46,203",
-    "With +20%": "$55,444",
-    "Life Expectancy By State": 77.6,
-    "Savings Required": "$864,929"
-  },
-  {
-    "stateid": 32,
-    "State": "New Mexico",
-    "Retirement Age": 62,
-    "Cost of Living Index": 0.914,
-    "Yearly Expenses +65yo": "$47,184",
-    "With +20%": "$56,621",
-    "Life Expectancy By State": 77.6,
-    "Savings Required": "$883,291"
-  },
-  {
-    "stateid": 34,
-    "State": "Oklahoma",
-    "Retirement Age": 62,
-    "Cost of Living Index": 0.872,
-    "Yearly Expenses +65yo": "$45,016",
-    "With +20%": "$54,019",
-    "Life Expectancy By State": 75.4,
-    "Savings Required": "$723,859"
-  },
-  {
-    "stateid": 14,
-    "State": "Arizona",
-    "Retirement Age": 63,
-    "Cost of Living Index": 1.01,
-    "Yearly Expenses +65yo": "$52,140",
-    "With +20%": "$62,568",
-    "Life Expectancy By State": 79.1,
-    "Savings Required": "$1,007,349"
-  },
-  {
-    "stateid": 45,
-    "State": "Delaware",
-    "Retirement Age": 63,
-    "Cost of Living Index": 1.071,
-    "Yearly Expenses +65yo": "$55,289",
-    "With +20%": "$66,347",
-    "Life Expectancy By State": 78.2,
-    "Savings Required": "$1,008,477"
-  },
-  {
-    "stateid": 22,
-    "State": "Georgia",
-    "Retirement Age": 63,
-    "Cost of Living Index": 0.906,
-    "Yearly Expenses +65yo": "$46,771",
-    "With +20%": "$56,126",
-    "Life Expectancy By State": 77.2,
-    "Savings Required": "$796,984"
-  },
-  {
-    "stateid": 27,
-    "State": "Indiana",
-    "Retirement Age": 63,
-    "Cost of Living Index": 0.905,
-    "Yearly Expenses +65yo": "$46,720",
-    "With +20%": "$56,064",
-    "Life Expectancy By State": 77,
-    "Savings Required": "$784,891"
-  },
-  {
-    "stateid": 7,
-    "State": "Maine",
-    "Retirement Age": 63,
-    "Cost of Living Index": 1.173,
-    "Yearly Expenses +65yo": "$60,555",
-    "With +20%": "$72,666",
-    "Life Expectancy By State": 78,
-    "Savings Required": "$1,089,989"
-  },
-  {
-    "stateid": 30,
-    "State": "Mississippi",
-    "Retirement Age": 63,
-    "Cost of Living Index": 0.867,
-    "Yearly Expenses +65yo": "$44,758",
-    "With +20%": "$53,710",
-    "Life Expectancy By State": 74.5,
-    "Savings Required": "$617,661"
-  },
-  {
-    "stateid": 2,
-    "State": "Missouri",
-    "Retirement Age": 63,
-    "Cost of Living Index": 0.883,
-    "Yearly Expenses +65yo": "$45,584",
-    "With +20%": "$54,701",
-    "Life Expectancy By State": 77.1,
-    "Savings Required": "$771,281"
-  },
-  {
-    "stateid": 33,
-    "State": "Nevada",
-    "Retirement Age": 63,
-    "Cost of Living Index": 1.092,
-    "Yearly Expenses +65yo": "$56,373",
-    "With +20%": "$67,648",
-    "Life Expectancy By State": 77.9,
-    "Savings Required": "$1,007,957"
-  },
-  {
-    "stateid": 18,
-    "State": "North Carolina",
-    "Retirement Age": 63,
-    "Cost of Living Index": 0.944,
-    "Yearly Expenses +65yo": "$48,733",
-    "With +20%": "$58,480",
-    "Life Expectancy By State": 77.8,
-    "Savings Required": "$865,499"
-  },
-  {
-    "stateid": 11,
-    "State": "Ohio",
-    "Retirement Age": 63,
-    "Cost of Living Index": 0.922,
-    "Yearly Expenses +65yo": "$47,597",
-    "With +20%": "$57,117",
-    "Life Expectancy By State": 76.6,
-    "Savings Required": "$776,788"
-  },
-  {
-    "stateid": 35,
-    "State": "Oregon",
-    "Retirement Age": 63,
-    "Cost of Living Index": 1.331,
-    "Yearly Expenses +65yo": "$68,712",
-    "With +20%": "$82,454",
-    "Life Expectancy By State": 79.2,
-    "Savings Required": "$1,335,752"
-  },
-  {
-    "stateid": 20,
-    "State": "South Carolina",
-    "Retirement Age": 63,
-    "Cost of Living Index": 0.959,
-    "Yearly Expenses +65yo": "$49,507",
-    "With +20%": "$59,409",
-    "Life Expectancy By State": 76.2,
-    "Savings Required": "$784,197"
-  },
-  {
-    "stateid": 42,
-    "State": "California",
-    "Retirement Age": 64,
-    "Cost of Living Index": 1.391,
-    "Yearly Expenses +65yo": "$71,809",
-    "With +20%": "$86,171",
-    "Life Expectancy By State": 80.9,
-    "Savings Required": "$1,456,286"
-  },
-  {
-    "stateid": 21,
-    "State": "Florida",
-    "Retirement Age": 64,
-    "Cost of Living Index": 0.991,
-    "Yearly Expenses +65yo": "$51,159",
-    "With +20%": "$61,391",
-    "Life Expectancy By State": 79.1,
-    "Savings Required": "$927,008"
-  },
-  {
-    "stateid": 15,
-    "State": "Idaho",
-    "Retirement Age": 64,
-    "Cost of Living Index": 0.938,
-    "Yearly Expenses +65yo": "$48,423",
-    "With +20%": "$58,108",
-    "Life Expectancy By State": 79,
-    "Savings Required": "$871,620"
-  },
-  {
-    "stateid": 23,
-    "State": "Illinois",
-    "Retirement Age": 64,
-    "Cost of Living Index": 0.95,
-    "Yearly Expenses +65yo": "$49,043",
-    "With +20%": "$58,851",
-    "Life Expectancy By State": 79,
-    "Savings Required": "$882,770"
-  },
-  {
-    "stateid": 38,
-    "State": "Montana",
-    "Retirement Age": 64,
-    "Cost of Living Index": 1.05,
-    "Yearly Expenses +65yo": "$54,205",
-    "With +20%": "$65,046",
-    "Life Expectancy By State": 76.9,
-    "Savings Required": "$839,096"
-  },
-  {
-    "stateid": 10,
-    "State": "New York",
-    "Retirement Age": 64,
-    "Cost of Living Index": 1.353,
-    "Yearly Expenses +65yo": "$69,847",
-    "With +20%": "$83,817",
-    "Life Expectancy By State": 80.8,
-    "Savings Required": "$1,408,121"
-  },
-  {
-    "stateid": 48,
-    "State": "Pennsylvania",
-    "Retirement Age": 64,
-    "Cost of Living Index": 0.988,
-    "Yearly Expenses +65yo": "$51,005",
-    "With +20%": "$61,205",
-    "Life Expectancy By State": 78,
-    "Savings Required": "$856,876"
-  },
-  {
-    "stateid": 3,
-    "State": "Tennessee",
-    "Retirement Age": 64,
-    "Cost of Living Index": 0.889,
-    "Yearly Expenses +65yo": "$45,894",
-    "With +20%": "$55,072",
-    "Life Expectancy By State": 76,
-    "Savings Required": "$660,870"
-  },
-  {
-    "stateid": 36,
-    "State": "Washington",
-    "Retirement Age": 64,
-    "Cost of Living Index": 1.102,
-    "Yearly Expenses +65yo": "$56,890",
-    "With +20%": "$68,268",
-    "Life Expectancy By State": 79.9,
-    "Savings Required": "$1,085,454"
-  },
-  {
-    "stateid": 51,
-    "State": "Wisconsin",
-    "Retirement Age": 64,
-    "Cost of Living Index": 0.963,
-    "Yearly Expenses +65yo": "$49,714",
-    "With +20%": "$59,657",
-    "Life Expectancy By State": 79.5,
-    "Savings Required": "$924,679"
-  },
-  {
-    "stateid": 40,
-    "State": "Wyoming",
-    "Retirement Age": 64,
-    "Cost of Living Index": 0.957,
-    "Yearly Expenses +65yo": "$49,404",
-    "With +20%": "$59,285",
-    "Life Expectancy By State": 77.9,
-    "Savings Required": "$824,062"
-  },
-  {
-    "stateid": 25,
-    "State": "Colorado",
-    "Retirement Age": 65,
-    "Cost of Living Index": 1.059,
-    "Yearly Expenses +65yo": "$54,670",
-    "With +20%": "$65,604",
-    "Life Expectancy By State": 79.9,
-    "Savings Required": "$977,496"
-  },
-  {
-    "stateid": 43,
-    "State": "Connecticut",
-    "Retirement Age": 65,
-    "Cost of Living Index": 1.289,
-    "Yearly Expenses +65yo": "$66,543",
-    "With +20%": "$79,852",
-    "Life Expectancy By State": 80.6,
-    "Savings Required": "$1,245,691"
-  },
-  {
-    "stateid": 26,
-    "State": "Iowa",
-    "Retirement Age": 65,
-    "Cost of Living Index": 0.92,
-    "Yearly Expenses +65yo": "$47,494",
-    "With +20%": "$56,993",
-    "Life Expectancy By State": 79.4,
-    "Savings Required": "$820,698"
-  },
-  {
-    "stateid": 28,
-    "State": "Kansas",
-    "Retirement Age": 65,
-    "Cost of Living Index": 0.896,
-    "Yearly Expenses +65yo": "$46,255",
-    "With +20%": "$55,506",
-    "Life Expectancy By State": 78.2,
-    "Savings Required": "$732,681"
-  },
-  {
-    "stateid": 6,
-    "State": "Maryland",
-    "Retirement Age": 65,
-    "Cost of Living Index": 1.302,
-    "Yearly Expenses +65yo": "$67,214",
-    "With +20%": "$80,657",
-    "Life Expectancy By State": 78.8,
-    "Savings Required": "$1,113,071"
-  },
-  {
-    "stateid": 17,
-    "State": "Minnesota",
-    "Retirement Age": 65,
-    "Cost of Living Index": 1.019,
-    "Yearly Expenses +65yo": "$52,605",
-    "With +20%": "$63,126",
-    "Life Expectancy By State": 80.7,
-    "Savings Required": "$991,075"
-  },
-  {
-    "stateid": 31,
-    "State": "Nebraska",
-    "Retirement Age": 65,
-    "Cost of Living Index": 0.923,
-    "Yearly Expenses +65yo": "$47,649",
-    "With +20%": "$57,179",
-    "Life Expectancy By State": 79.1,
-    "Savings Required": "$806,220"
-  },
-  {
-    "stateid": 19,
-    "State": "New Hampshire",
-    "Retirement Age": 65,
-    "Cost of Living Index": 1.084,
-    "Yearly Expenses +65yo": "$55,960",
-    "With +20%": "$67,152",
-    "Life Expectancy By State": 79.1,
-    "Savings Required": "$946,850"
-  },
-  {
-    "stateid": 9,
-    "State": "New Jersey",
-    "Retirement Age": 65,
-    "Cost of Living Index": 1.254,
-    "Yearly Expenses +65yo": "$64,736",
-    "With +20%": "$77,684",
-    "Life Expectancy By State": 80.5,
-    "Savings Required": "$1,204,099"
-  },
-  {
-    "stateid": 8,
-    "State": "North Dakota",
-    "Retirement Age": 65,
-    "Cost of Living Index": 0.985,
-    "Yearly Expenses +65yo": "$50,850",
-    "With +20%": "$61,020",
-    "Life Expectancy By State": 78.5,
-    "Savings Required": "$823,764"
-  },
-  {
-    "stateid": 49,
-    "State": "Rhode Island",
-    "Retirement Age": 65,
-    "Cost of Living Index": 1.209,
-    "Yearly Expenses +65yo": "$62,413",
-    "With +20%": "$74,896",
-    "Life Expectancy By State": 79.3,
-    "Savings Required": "$1,071,014"
-  },
-  {
-    "stateid": 12,
-    "State": "Texas",
-    "Retirement Age": 65,
-    "Cost of Living Index": 0.915,
-    "Yearly Expenses +65yo": "$47,236",
-    "With +20%": "$56,683",
-    "Life Expectancy By State": 78.5,
-    "Savings Required": "$765,223"
-  },
-  {
-    "stateid": 4,
-    "State": "Utah",
-    "Retirement Age": 65,
-    "Cost of Living Index": 0.985,
-    "Yearly Expenses +65yo": "$50,850",
-    "With +20%": "$61,020",
-    "Life Expectancy By State": 79.3,
-    "Savings Required": "$872,580"
-  },
-  {
-    "stateid": 39,
-    "State": "Vermont",
-    "Retirement Age": 65,
-    "Cost of Living Index": 1.169,
-    "Yearly Expenses +65yo": "$60,348",
-    "With +20%": "$72,418",
-    "Life Expectancy By State": 79.9,
-    "Savings Required": "$1,079,030"
-  },
-  {
-    "stateid": 5,
-    "State": "Virginia",
-    "Retirement Age": 65,
-    "Cost of Living Index": 1.013,
-    "Yearly Expenses +65yo": "$52,295",
-    "With +20%": "$62,754",
-    "Life Expectancy By State": 79.1,
-    "Savings Required": "$884,833"
-  },
-  {
-    "stateid": 46,
     "State": "Hawaii",
-    "Retirement Age": 66,
-    "Cost of Living Index": 1.921,
-    "Yearly Expenses +65yo": "$99,170",
+    "Retirement Age": "66",
+    "livingindex": "1.921",
+    "Yearly Expenses": "$99,170",
     "With +20%": "$119,004",
-    "Life Expectancy By State": 81.5,
+    "Life Expectancy By State": "81.5",
     "Savings Required": "$1,844,556"
   },
   {
-    "stateid": 47,
+    "State": "California",
+    "Retirement Age": "64",
+    "livingindex": "1.391",
+    "Yearly Expenses": "$71,809",
+    "With +20%": "$86,171",
+    "Life Expectancy By State": "80.9",
+    "Savings Required": "$1,456,286"
+  },
+  {
+    "State": "New York",
+    "Retirement Age": "64",
+    "livingindex": "1.353",
+    "Yearly Expenses": "$69,847",
+    "With +20%": "$83,817",
+    "Life Expectancy By State": "80.8",
+    "Savings Required": "$1,408,121"
+  },
+  {
+    "State": "Alaska",
+    "Retirement Age": "61",
+    "livingindex": "1.297",
+    "Yearly Expenses": "$66,956",
+    "With +20%": "$80,348",
+    "Life Expectancy By State": "77.7",
+    "Savings Required": "$1,341,805"
+  },
+  {
+    "State": "Oregon",
+    "Retirement Age": "63",
+    "livingindex": "1.331",
+    "Yearly Expenses": "$68,712",
+    "With +20%": "$82,454",
+    "Life Expectancy By State": "79.2",
+    "Savings Required": "$1,335,752"
+  },
+  {
+    "State": "Connecticut",
+    "Retirement Age": "65",
+    "livingindex": "1.289",
+    "Yearly Expenses": "$66,543",
+    "With +20%": "$79,852",
+    "Life Expectancy By State": "80.6",
+    "Savings Required": "$1,245,691"
+  },
+  {
+    "State": "New Jersey",
+    "Retirement Age": "65",
+    "livingindex": "1.254",
+    "Yearly Expenses": "$64,736",
+    "With +20%": "$77,684",
+    "Life Expectancy By State": "80.5",
+    "Savings Required": "$1,204,099"
+  },
+  {
     "State": "Massachusetts",
-    "Retirement Age": 66,
-    "Cost of Living Index": 1.342,
-    "Yearly Expenses +65yo": "$69,279",
+    "Retirement Age": "66",
+    "livingindex": "1.342",
+    "Yearly Expenses": "$69,279",
     "With +20%": "$83,135",
-    "Life Expectancy By State": 79.9,
+    "Life Expectancy By State": "79.9",
     "Savings Required": "$1,155,581"
   },
   {
-    "stateid": 50,
-    "State": "South Dakota",
-    "Retirement Age": 66,
-    "Cost of Living Index": 0.985,
-    "Yearly Expenses +65yo": "$50,850",
+    "State": "Maryland",
+    "Retirement Age": "65",
+    "livingindex": "1.302",
+    "Yearly Expenses": "$67,214",
+    "With +20%": "$80,657",
+    "Life Expectancy By State": "78.8",
+    "Savings Required": "$1,113,071"
+  },
+  {
+    "State": "Maine",
+    "Retirement Age": "63",
+    "livingindex": "1.173",
+    "Yearly Expenses": "$60,555",
+    "With +20%": "$72,666",
+    "Life Expectancy By State": "78",
+    "Savings Required": "$1,089,989"
+  },
+  {
+    "State": "Washington",
+    "Retirement Age": "64",
+    "livingindex": "1.102",
+    "Yearly Expenses": "$56,890",
+    "With +20%": "$68,268",
+    "Life Expectancy By State": "79.9",
+    "Savings Required": "$1,085,454"
+  },
+  {
+    "State": "Vermont",
+    "Retirement Age": "65",
+    "livingindex": "1.169",
+    "Yearly Expenses": "$60,348",
+    "With +20%": "$72,418",
+    "Life Expectancy By State": "79.9",
+    "Savings Required": "$1,079,030"
+  },
+  {
+    "State": "Rhode Island",
+    "Retirement Age": "65",
+    "livingindex": "1.209",
+    "Yearly Expenses": "$62,413",
+    "With +20%": "$74,896",
+    "Life Expectancy By State": "79.3",
+    "Savings Required": "$1,071,014"
+  },
+  {
+    "State": "District of Columbia",
+    "Retirement Age": "67",
+    "livingindex": "1.621",
+    "Yearly Expenses": "$83,683",
+    "With +20%": "$100,419",
+    "Life Expectancy By State": "77.1",
+    "Savings Required": "$1,014,232"
+  },
+  {
+    "State": "Delaware",
+    "Retirement Age": "63",
+    "livingindex": "1.071",
+    "Yearly Expenses": "$55,289",
+    "With +20%": "$66,347",
+    "Life Expectancy By State": "78.2",
+    "Savings Required": "$1,008,477"
+  },
+  {
+    "State": "Nevada",
+    "Retirement Age": "63",
+    "livingindex": "1.092",
+    "Yearly Expenses": "$56,373",
+    "With +20%": "$67,648",
+    "Life Expectancy By State": "77.9",
+    "Savings Required": "$1,007,957"
+  },
+  {
+    "State": "Arizona",
+    "Retirement Age": "63",
+    "livingindex": "1.01",
+    "Yearly Expenses": "$52,140",
+    "With +20%": "$62,568",
+    "Life Expectancy By State": "79.1",
+    "Savings Required": "$1,007,349"
+  },
+  {
+    "State": "Minnesota",
+    "Retirement Age": "65",
+    "livingindex": "1.019",
+    "Yearly Expenses": "$52,605",
+    "With +20%": "$63,126",
+    "Life Expectancy By State": "80.7",
+    "Savings Required": "$991,075"
+  },
+  {
+    "State": "Colorado",
+    "Retirement Age": "65",
+    "livingindex": "1.059",
+    "Yearly Expenses": "$54,670",
+    "With +20%": "$65,604",
+    "Life Expectancy By State": "79.9",
+    "Savings Required": "$977,496"
+  },
+  {
+    "State": "New Hampshire",
+    "Retirement Age": "65",
+    "livingindex": "1.084",
+    "Yearly Expenses": "$55,960",
+    "With +20%": "$67,152",
+    "Life Expectancy By State": "79.1",
+    "Savings Required": "$946,850"
+  },
+  {
+    "State": "Florida",
+    "Retirement Age": "64",
+    "livingindex": "0.991",
+    "Yearly Expenses": "$51,159",
+    "With +20%": "$61,391",
+    "Life Expectancy By State": "79.1",
+    "Savings Required": "$927,008"
+  },
+  {
+    "State": "Wisconsin",
+    "Retirement Age": "64",
+    "livingindex": "0.963",
+    "Yearly Expenses": "$49,714",
+    "With +20%": "$59,657",
+    "Life Expectancy By State": "79.5",
+    "Savings Required": "$924,679"
+  },
+  {
+    "State": "U.S. Average",
+    "Retirement Age": "64",
+    "livingindex": "100",
+    "Yearly Expenses": "$51,624",
+    "With +20%": "$61,949",
+    "Life Expectancy By State": "78.6",
+    "Savings Required": "$904,452"
+  },
+  {
+    "State": "Virginia",
+    "Retirement Age": "65",
+    "livingindex": "1.013",
+    "Yearly Expenses": "$52,295",
+    "With +20%": "$62,754",
+    "Life Expectancy By State": "79.1",
+    "Savings Required": "$884,833"
+  },
+  {
+    "State": "New Mexico",
+    "Retirement Age": "62",
+    "livingindex": "0.914",
+    "Yearly Expenses": "$47,184",
+    "With +20%": "$56,621",
+    "Life Expectancy By State": "77.6",
+    "Savings Required": "$883,291"
+  },
+  {
+    "State": "Illinois",
+    "Retirement Age": "64",
+    "livingindex": "0.95",
+    "Yearly Expenses": "$49,043",
+    "With +20%": "$58,851",
+    "Life Expectancy By State": "79",
+    "Savings Required": "$882,770"
+  },
+  {
+    "State": "Utah",
+    "Retirement Age": "65",
+    "livingindex": "0.985",
+    "Yearly Expenses": "$50,850",
     "With +20%": "$61,020",
-    "Life Expectancy By State": 78.1,
+    "Life Expectancy By State": "79.3",
+    "Savings Required": "$872,580"
+  },
+  {
+    "State": "Idaho",
+    "Retirement Age": "64",
+    "livingindex": "0.938",
+    "Yearly Expenses": "$48,423",
+    "With +20%": "$58,108",
+    "Life Expectancy By State": "79",
+    "Savings Required": "$871,620"
+  },
+  {
+    "State": "North Carolina",
+    "Retirement Age": "63",
+    "livingindex": "0.944",
+    "Yearly Expenses": "$48,733",
+    "With +20%": "$58,480",
+    "Life Expectancy By State": "77.8",
+    "Savings Required": "$865,499"
+  },
+  {
+    "State": "Michigan",
+    "Retirement Age": "62",
+    "livingindex": "0.895",
+    "Yearly Expenses": "$46,203",
+    "With +20%": "$55,444",
+    "Life Expectancy By State": "77.6",
+    "Savings Required": "$864,929"
+  },
+  {
+    "State": "Pennsylvania",
+    "Retirement Age": "64",
+    "livingindex": "0.988",
+    "Yearly Expenses": "$51,005",
+    "With +20%": "$61,205",
+    "Life Expectancy By State": "78",
+    "Savings Required": "$856,876"
+  },
+  {
+    "State": "Montana",
+    "Retirement Age": "64",
+    "livingindex": "1.05",
+    "Yearly Expenses": "$54,205",
+    "With +20%": "$65,046",
+    "Life Expectancy By State": "76.9",
+    "Savings Required": "$839,096"
+  },
+  {
+    "State": "Wyoming",
+    "Retirement Age": "64",
+    "livingindex": "0.957",
+    "Yearly Expenses": "$49,404",
+    "With +20%": "$59,285",
+    "Life Expectancy By State": "77.9",
+    "Savings Required": "$824,062"
+  },
+  {
+    "State": "North Dakota",
+    "Retirement Age": "65",
+    "livingindex": "0.985",
+    "Yearly Expenses": "$50,850",
+    "With +20%": "$61,020",
+    "Life Expectancy By State": "78.5",
+    "Savings Required": "$823,764"
+  },
+  {
+    "State": "Iowa",
+    "Retirement Age": "65",
+    "livingindex": "0.92",
+    "Yearly Expenses": "$47,494",
+    "With +20%": "$56,993",
+    "Life Expectancy By State": "79.4",
+    "Savings Required": "$820,698"
+  },
+  {
+    "State": "Nebraska",
+    "Retirement Age": "65",
+    "livingindex": "0.923",
+    "Yearly Expenses": "$47,649",
+    "With +20%": "$57,179",
+    "Life Expectancy By State": "79.1",
+    "Savings Required": "$806,220"
+  },
+  {
+    "State": "Georgia",
+    "Retirement Age": "63",
+    "livingindex": "0.906",
+    "Yearly Expenses": "$46,771",
+    "With +20%": "$56,126",
+    "Life Expectancy By State": "77.2",
+    "Savings Required": "$796,984"
+  },
+  {
+    "State": "West Virginia",
+    "Retirement Age": "61",
+    "livingindex": "0.921",
+    "Yearly Expenses": "$47,546",
+    "With +20%": "$57,055",
+    "Life Expectancy By State": "74.8",
+    "Savings Required": "$787,357"
+  },
+  {
+    "State": "Indiana",
+    "Retirement Age": "63",
+    "livingindex": "0.905",
+    "Yearly Expenses": "$46,720",
+    "With +20%": "$56,064",
+    "Life Expectancy By State": "77",
+    "Savings Required": "$784,891"
+  },
+  {
+    "State": "South Carolina",
+    "Retirement Age": "63",
+    "livingindex": "0.959",
+    "Yearly Expenses": "$49,507",
+    "With +20%": "$59,409",
+    "Life Expectancy By State": "76.2",
+    "Savings Required": "$784,197"
+  },
+  {
+    "State": "Louisiana",
+    "Retirement Age": "62",
+    "livingindex": "0.936",
+    "Yearly Expenses": "$48,320",
+    "With +20%": "$57,984",
+    "Life Expectancy By State": "75.4",
+    "Savings Required": "$776,987"
+  },
+  {
+    "State": "Ohio",
+    "Retirement Age": "63",
+    "livingindex": "0.922",
+    "Yearly Expenses": "$47,597",
+    "With +20%": "$57,117",
+    "Life Expectancy By State": "76.6",
+    "Savings Required": "$776,788"
+  },
+  {
+    "State": "Missouri",
+    "Retirement Age": "63",
+    "livingindex": "0.883",
+    "Yearly Expenses": "$45,584",
+    "With +20%": "$54,701",
+    "Life Expectancy By State": "77.1",
+    "Savings Required": "$771,281"
+  },
+  {
+    "State": "Texas",
+    "Retirement Age": "65",
+    "livingindex": "0.915",
+    "Yearly Expenses": "$47,236",
+    "With +20%": "$56,683",
+    "Life Expectancy By State": "78.5",
+    "Savings Required": "$765,223"
+  },
+  {
+    "State": "Kentucky",
+    "Retirement Age": "62",
+    "livingindex": "0.917",
+    "Yearly Expenses": "$47,339",
+    "With +20%": "$56,807",
+    "Life Expectancy By State": "75",
+    "Savings Required": "$738,492"
+  },
+  {
+    "State": "South Dakota",
+    "Retirement Age": "66",
+    "livingindex": "0.985",
+    "Yearly Expenses": "$50,850",
+    "With +20%": "$61,020",
+    "Life Expectancy By State": "78.1",
     "Savings Required": "$738,337"
   },
   {
-    "stateid": 44,
-    "State": "District of Columbia",
-    "Retirement Age": 67,
-    "Cost of Living Index": 1.621,
-    "Yearly Expenses +65yo": "$83,683",
-    "With +20%": "$100,419",
-    "Life Expectancy By State": 77.1,
-    "Savings Required": "$1,014,232"
+    "State": "Kansas",
+    "Retirement Age": "65",
+    "livingindex": "0.896",
+    "Yearly Expenses": "$46,255",
+    "With +20%": "$55,506",
+    "Life Expectancy By State": "78.2",
+    "Savings Required": "$732,681"
+  },
+  {
+    "State": "Arkansas",
+    "Retirement Age": "62",
+    "livingindex": "0.877",
+    "Yearly Expenses": "$45,274",
+    "With +20%": "$54,329",
+    "Life Expectancy By State": "75.4",
+    "Savings Required": "$728,010"
+  },
+  {
+    "State": "Oklahoma",
+    "Retirement Age": "62",
+    "livingindex": "0.872",
+    "Yearly Expenses": "$45,016",
+    "With +20%": "$54,019",
+    "Life Expectancy By State": "75.4",
+    "Savings Required": "$723,859"
+  },
+  {
+    "State": "Alabama",
+    "Retirement Age": "62",
+    "livingindex": "0.892",
+    "Yearly Expenses": "$46,049",
+    "With +20%": "$55,258",
+    "Life Expectancy By State": "74.9",
+    "Savings Required": "$712,832"
+  },
+  {
+    "State": "Tennessee",
+    "Retirement Age": "64",
+    "livingindex": "0.889",
+    "Yearly Expenses": "$45,894",
+    "With +20%": "$55,072",
+    "Life Expectancy By State": "76",
+    "Savings Required": "$660,870"
+  },
+  {
+    "State": "Mississippi",
+    "Retirement Age": "63",
+    "livingindex": "0.867",
+    "Yearly Expenses": "$44,758",
+    "With +20%": "$53,710",
+    "Life Expectancy By State": "74.5",
+    "Savings Required": "$617,661"
   }
 ]
