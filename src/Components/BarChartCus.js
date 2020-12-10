@@ -18,8 +18,8 @@ export default function BarChartCus({data, key1, key2, xAxis, yAxis}) {
                   >
 
   <CartesianGrid strokeDasharray="3 3" />
-  <XAxis type="number" dataKey={xAxis} />
-  <YAxis type="category" dataKey={yAxis}/>
+  <XAxis type="number" dataKey={xAxis} tick={false} />
+  <YAxis type="category" dataKey={yAxis} />
   <Tooltip formatter={(value) => new Intl.NumberFormat('en').format(value)} />
   <Legend />
   <Bar dataKey={key1} fill="#C34A36" tickFormatter={(value) => new Intl.NumberFormat('en').format(value)}/>
