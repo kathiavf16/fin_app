@@ -54,7 +54,7 @@ export default class Navbar extends Component {
                 offset={-100}
                 duration={1300}
               >
-                Rankings
+                Wealth Gap
               </Link>
             </li>
             <li className="nav-item">
@@ -66,7 +66,7 @@ export default class Navbar extends Component {
                 offset={-100}
                 duration={1300}
               >
-                Indicators
+                Rankings
               </Link>
             </li>
             <li className="nav-item">

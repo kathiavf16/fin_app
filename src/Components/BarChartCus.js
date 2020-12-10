@@ -7,13 +7,12 @@ export default function BarChartCus({data, key1, key2, xAxis, yAxis}) {
   return (
     <div className="bar-cus">
     <BarChart
-      width={600}
       layout="vertical"
       height={1200}
       width={900}
       data={data}
       margin={{
-    top: 5, right: 0, left: 55, bottom: 5,
+    top: 5, right: 0, left: 100, bottom: 5,
     }}
                   >
 
