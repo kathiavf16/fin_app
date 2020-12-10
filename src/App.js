@@ -151,7 +151,7 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
             recently estimated that millennials will face even a harder challenge and should save almost half of their income if they wish to retire at
             65. However, the good news is that some parts of the country are friendlier on the wallet than others when it comes to retirement.</p></div>}
           placeholder={"Search for states using the search bar on the table"}
-
+          titlecontent={"Savings Required to Retire by State"}
           subcontent={<BarChartCus
           data={worthdata}
           yAxis={"State"}
