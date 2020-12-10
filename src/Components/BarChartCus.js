@@ -9,7 +9,8 @@ export default function BarChartCus({data, key1, key2, xAxis, yAxis}) {
     <BarChart
       width={600}
       layout="vertical"
-      height={300}
+      height={1200}
+      width={900}
       data={data}
       margin={{
     top: 5, right: 0, left: 55, bottom: 5,

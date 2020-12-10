@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
 import Iframe from 'react-iframe'
-import worthdata from "./Data/raceData.json"
+import worthdata from "./Data/statechart.json"
 import incomedata from "./Data/income-debt.json"
 import raceregion from "./Data/race_region.json"
 import datatable from "./Data/datatable.json"
@@ -146,15 +146,17 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
           sectiontitle={"Cost of Retirement by State "}
           title="How Much You Need to Retire Comfortably in Each State?"
           content={<ReactFlexyTable className="Flex-table" data={datatable} sortable filterable
-          nonFilterCols={["Avg. Debt of Graduate", "Avg. Debt Rank", "% of Graduates with Debt", "% with Debt Rank", "Fall enrollment - Undergrads total","Tuition and Fees (in-district/in-state)","Total Cost of Attendance (on-campus)"]} pageSize={6} />}
+          nonFilterCols={["Avg. Debt of Graduate", "Avg. Debt Rank", "% of Graduates with Debt", "% with Debt Rank", "Fall enrollment - Undergrads total","Tuition and Fees (in-district/in-state)","Total Cost of Attendance (on-campus)"]} pageSize={30} />}
           text={<div><p>Having enough savings to afford a comfortable retirement has been an issue for a long time now. In fact, some economists have
             recently estimated that millennials will face even a harder challenge and should save almost half of their income if they wish to retire at
             65. However, the good news is that some parts of the country are friendlier on the wallet than others when it comes to retirement.</p></div>}
           placeholder={"Search for states using the search bar on the table"}
-          titlesubcontent={<div>Best 5 States for Retirement</div>}
-          subcontent={<CustomBar/>}
-          titlesubcontent2={"Worst 5 States for Retirement"}
-          subcontent2={<CustomBar2/>}
+
+          subcontent={<BarChartCus
+          data={worthdata}
+          yAxis={"State"}
+          key1={"Savings Required"}
+                          />}
           dark={false}
           id="section4"
         />
@@ -195,7 +197,7 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
           unsettling details regarding access to home ownership and the
           barriers faced by a significant number of aspirational home owners.</p>
           </div>}
-          dark={true}
+          dark={false}
           id="section6"
         />
       </div>
