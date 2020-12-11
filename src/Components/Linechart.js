@@ -24,10 +24,11 @@ export default class Example extends PureComponent {
         <YAxis />
         <Tooltip />
         <Legend />
+        <Line type="monotone" dataKey="Silent" stroke="#045762" activeDot={{ r: 8 }} strokeWidth={2}/>
         <Line type="monotone" dataKey="BabyBoom" stroke="#799351" strokeWidth={2} activeDot={{ r: 6 }}/>
         <Line type="monotone" dataKey="GenX" stroke="#ffa36c" strokeWidth={2} activeDot={{ r: 10 }}/>
         <Line type="monotone" dataKey="Millennial" stroke="#a20a0a" activeDot={{ r: 12 }} strokeWidth={2} />
-        <Line type="monotone" dataKey="Silent" stroke="#045762" activeDot={{ r: 8 }} strokeWidth={2}/>
+
       </LineChart>
     </ResponsiveContainer>
   </div>

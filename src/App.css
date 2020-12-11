@@ -71,7 +71,7 @@ p{
 
 .nav-item {
   display: inline;
-  margin-left: 2rem;
+  margin-left: 1.5rem;
   color: #111d13;
   font-weight: 600;;
 
@@ -149,7 +149,7 @@ p{
 #section2.subcontent3 {
   font-style: italic;
   font-weight: bold;
-  font-size: 1.6em;
+  font-size: 1.4em;
   color: #8f384d;
   padding: 1%;
   font-family: 'Montserrat', sans-serif
@@ -201,7 +201,9 @@ p{
    text-align: left;
    background-color: white;
 }
-
+#section6.placeholder {
+  text-align: left;
+}
 .pa{
   font-weight: bolder;
   font-size: 1.4em;

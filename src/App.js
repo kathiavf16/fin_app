@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"
+import React, { useState} from "react"
 import Iframe from 'react-iframe'
 import worthdata from "./Data/statechart.json"
 import incomedata from "./Data/income-debt.json"
@@ -8,22 +8,16 @@ import inequality from "./Data/statesk.json"
 import stockregion from "./Data/stock_region.json";
 import BarChartCus from "./Components/BarChartCus.js"
 import Linechart from "./Components/Linechart.js"
-import CustomBar from "./Components/CustomBar.js"
-import CustomBar2 from "./Components/CustomBar2.js"
-//import StackedBar from "./Components/StackedBar.js"
-import Piech from "./Components/Piech.js"
 import ReactTooltip from 'react-tooltip'
 import "./App.css"
 import Navbar from "./Components/Navbar"
 import Section from "./Components/Section"
-//import Sectionmap from "./Components/Sectionmap"
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel'
 import Card from "./Components/Card"
 import MapChart from "./Components/MapChart"
 import ReactFlexyTable from 'react-flexy-table'
 import 'react-flexy-table/dist/index.css'
-//import Dropdown from "./Components/Dropdown"
 
 
 
@@ -130,7 +124,7 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
         <Section
           sectiontitle={"Generational Wealth Gap"}
           title="The Growing Generational Wealth Gap "
-          subtitle={"OVERALL CONSUMERS REPORT:"}
+          titlecontent={"Wealth by generation - % distribution"}
           content={<Linechart/>}
           content2={<div><p>Note: Distributions by generation are defined by birth year as follows: Silent and Earlier=born before 1946,
             Baby Boomer=born 1946-1964, Gen X=born 1965-1980, and Millennial=born 1981-1996.</p></div>}
@@ -145,8 +139,7 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
         <Section
           sectiontitle={"Cost of Retirement by State "}
           title="How Much You Need to Retire Comfortably in Each State?"
-          content={<ReactFlexyTable className="Flex-table" data={datatable} sortable filterable
-          nonFilterCols={["Avg. Debt of Graduate", "Avg. Debt Rank", "% of Graduates with Debt", "% with Debt Rank", "Fall enrollment - Undergrads total","Tuition and Fees (in-district/in-state)","Total Cost of Attendance (on-campus)"]} pageSize={30} />}
+          content={<ReactFlexyTable className="Flex-table" data={datatable} sortable filterable pageSize={52} />}
           text={<div><p>Having enough savings to afford a comfortable retirement has been an issue for a long time now. In fact, some economists have
             recently estimated that millennials will face even a harder challenge and should save almost half of their income if they wish to retire at
             65. However, the good news is that some parts of the country are friendlier on the wallet than others when it comes to retirement.</p></div>}
@@ -190,12 +183,15 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
         <Section
           sectiontitle={"About the Data"}
           title="About the Data"
-          subcontent={"https://www.calculatorsoup.com/calculators/financial/retirement-savings-calculator.php?src=link_copied"}
-          content={<div>
-          <p>Financial Literacy survey reveals some
-          good news about savings and consumer debt levels but yields some
-          unsettling details regarding access to home ownership and the
-          barriers faced by a significant number of aspirational home owners.</p>
+          placeholder={<div>
+          <h3>References</h3>
+          <a href="https://www.visualcapitalist.com/charting-the-growing-generational-wealth-gap/" >Charting The Growing Generational Wealth Gap</a><br></br>
+          <a href="https://www.washingtonpost.com/business/2019/12/03/precariousness-modern-young-adulthood-one-chart/" target="_blank">The staggering millennial wealth deficit, in one chart</a><br></br>
+          <a href="https://howmuch.net/articles/cost-comfortable-retirement-america" target="_blank">Mapped: How Much Money do You Need to Retire Comfortably in Each State?</a><br></br>
+          <a href="https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/top-10-ways-to-prepare-for-retirement.pdf" target="_blank">Top 10 Ways to
+Prepare for
+Retirement</a><br></br>
+          <a href="https://www.epi.org/publication/the-new-gilded-age-income-inequality-in-the-u-s-by-state-metropolitan-area-and-county/" target="_blank">The new gilded age</a><br></br>
           </div>}
           dark={false}
           id="section6"

@@ -1,18 +1,18 @@
 import React from "react";
 import {
-  BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend,
+  BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend,ResponsiveContainer
 } from 'recharts';
 
 export default function BarChartCus({data, key1, key2, xAxis, yAxis}) {
   return (
-    <div className="bar-cus">
+    <div className="bar-cus" style={{ width: '100%', height: 1000 }} >
+    <ResponsiveContainer>
     <BarChart
       layout="vertical"
-      height={1200}
       width={900}
       data={data}
       margin={{
-    top: 5, right: 0, left: 100, bottom: 5,
+    top: 5, right: 0, left: 110, bottom: 5,
     }}
                   >
 
@@ -25,7 +25,7 @@ export default function BarChartCus({data, key1, key2, xAxis, yAxis}) {
 
 
 </BarChart>
-
+</ResponsiveContainer>
     </div>
   );
 }
