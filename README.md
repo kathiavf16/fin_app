@@ -13,15 +13,30 @@ One takeaway I learned from taking this approach was that, before making the dec
 
 My project made a 360 degrees turn from my initial idea to its current state. First, I wanted to design a financial securities research dashboard, but then I thought, how can this be useful for my audience? After brainstorming and thinking about the objectives of this project. I decided to do something related to financial literacy. 
 
+### I.
 In terms of my design choices, that is an aspect of the project I do not feel very proud of. In the first section, I used the react-responsive-carousel component to display the 10 Eye-Opening Financial Literacy Statistics. I recognize this was a weak approach. I totally dislike the choice, but I did not have enough time to use my imagination to come up with a better idea. I feel I could have done better, in the future, I would like to add some sort of sunburst displaying the 10 eye-opening facts in a more interactive way instead.
 
+<img src="images/section1.png" width="600" height="600">
+
+### II.
 The second section is about Income Inequality. I used the react-simple-maps component to render the USA map. This is another disappointment for my expectations because I was not able to come up with the desired outcome. My plan was to build a demographics by state section, and the map was intended to function as the filter. Sadly, my biggest mistake was to use this react component instead of using d3.js. This component might do everything I want to do, but it requires time to learn how to use it. Trying to use a color scale on this map was one of the challenges I had. I had it difficult trying different methods with no luck. I’m sure that if I would’ve used d3.js, this would’ve been straightforward from the beginning. Eventually, I got frustrated, abandoned the section, and kept working on other aspects of the project. 
 
+<img src="images/section2.png" width="800" height="500">
+
+### III.
 The third section is about the growing generational wealth gap, in which, I address the issue of wealth inequality by generation. The fact that millennials are in such a disadvantageous position financially is scary, as I mentioned before. To display these scary numbers, I used the library Recharts. I think it was a good choice. It was easy to implement, and I feel the line chart does the work delivering the right message.  
 
+<img src="images/section3.png" width="500" height="500">
+
+### IV.
 The fourth section is about retirement. This is my favorite part of the project. I find it useful to have an estimate of how much savings you might need to retire in a specific state. I have a long way to go to retirement, but I’m already thinking about these important numbers. In terms of design, to build my table I used the react-flexy-table component. The table worked fine, and it was easy to implement. The only disappointment was that I was not able to synchronize it with the map due to its limitations. I did not know which props to use to be able to link these functionalities. Here again another instance in which I think using d3.js would’ve been a better choice. 
 
+<img src="images/section4.png" width="900" height="400">
+
+### V
 In the last section, I recommend steps to prepare for retirement. My suggestion is that saving early is the key, and to prove my point, I embedded a retirement planning calculator for the readers to estimate how invested money can grow over time. Honesty, I know this is not the only avenue to wealth, but it was a quick suggestion to bring awareness about saving and investing. In terms of design, I do not like how the embedded chart looks, but I kept it there as a place holder until I come up with a better idea.
+
+<img src="images/section5.png" width="600" height="600">
 
 ## Conclusions
 
