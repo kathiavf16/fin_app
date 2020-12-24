@@ -34,7 +34,7 @@ The fourth section is about retirement. This is my favorite part of the project.
 <img src="images/section4.png" width="800" height="400">
 
 ### V.
-In the last section, I recommend steps to prepare for retirement. My suggestion is that saving early is the key, and to prove my point, I embedded a retirement planning calculator for the readers to estimate how invested money can grow over time. Honesty, I know this is not the only avenue to wealth, but it was a quick suggestion to bring awareness about saving and investing. In terms of design, I do not like how the embedded chart looks, but I kept it there as a place holder until I come up with a better idea.
+In the last section, I recommend steps to prepare for retirement. My suggestion is that saving early is the key, and to prove my point, I embedded a retirement planning calculator for the readers to estimate how invested money can grow over time. Honesty, I know this is not the only avenue to wealth, but it was a quick suggestion to bring awareness about the importance of saving and investing. In terms of design, I do not like how the embedded chart looks, but I kept it there as a place holder until I come up with a better idea.
 
 <img src="images/section5.png" width="400" height="400">
 
