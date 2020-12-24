@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 My project is about Wealth and Financial Literacy, Important Fact You Need to Know. I picked this subject because I enjoy learning about personal finance. I have noticed that most millennials around me do not know enough about the subject, and I find this concerning. One of my main discoveries was that in 2019, millennials only owned 4.5% of the wealth in the U.S. On the other hand, baby boomers owned 53.1%. I believe these numbers might get worse over time if financial literacy is not reinforced in future generations from a very early age. 
 
-### Design decisions 
+### Design Decisions 
 
 I had a hard time thinking about how to deliver this message, especially since it is about economics, and I find it can be a little dry to visualize. I started using d3.js to develop the visuals, but then I learned about react.js, and I challenged myself to give it a try. I must say that learning how to use the framework was a big challenge because it was the first time, I interacted with this type of coding structure. After all, I feel it was the best decision. I discovered you can do wonderful things when developing from within a framework such as react.js or vue.js. I must acknowledge that using react.js for this project was a little extra. I believe that, if I would’ve used d3.js instead, I would’ve gotten better results for this purpose. 
 
@@ -40,8 +40,6 @@ In the last section, I recommend steps to prepare for retirement. My suggestion 
 
 ## Conclusions
 
-### Suggestions For Others Coming Into The Web Development Field
-
 Putting this app together was a beginner’s challenge, and it was very worth it. Now I feel confident knowing that I have a strong foundation, and I am ready to take the next steps to keep developing my skills as a front-end developer.
 
 For others coming into this field, I recommend never taking shorts cuts. I tried taking the easy way out and learned that having strong knowledge of the fundamentals is very important. In this field learning never stops. If you feel you do not want to be constantly learning new technologies this is not for you. If you love figuring things out and exploiting your creativity, this is the right field. I feel this project does not reflect my creative side, but it was more of an exploration of trying new technologies. This can get much better, and it will. Overall, taking the Advance Data Studio class was a life-changing experience. Thanks Prof. Aucher!
@@ -49,7 +47,7 @@ For others coming into this field, I recommend never taking shorts cuts. I tried
 
 ### Data Documentation
 
-#### Data sources: 
+#### Data Sources: 
 
 * 10 Eye-Opening Financial Literacy Statistics: https://www.opploans.com/oppu/articles/statistics-financial-literacy/
 
