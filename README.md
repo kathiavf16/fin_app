@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 My project is about Wealth and Financial Literacy, Important Fact You Need to Know. I picked this subject because I enjoy learning about personal finance. I have noticed that most millennials around me do not know enough about the subject, and I find this concerning. One of my main discoveries was that in 2019, millennials only owned 4.5% of the wealth in the U.S. On the other hand, baby boomers owned 53.1%. I believe these numbers might get worse over time if financial literacy is not reinforced in future generations from a very early age. 
 
-### Outline the major design decisions you made for your visuals, explain how you got there and why you picked them.
+### Design decisions 
 
 I had a hard time thinking about how to deliver this message, especially since it is about economics, and I find it can be a little dry to visualize. I started using d3.js to develop the visuals, but then I learned about react.js, and I challenged myself to give it a try. I must say that learning how to use the framework was a big challenge because it was the first time, I interacted with this type of coding structure. After all, I feel it was the best decision. I discovered you can do wonderful things when developing from within a framework such as react.js or vue.js. I must acknowledge that using react.js for this project was a little extra. I believe, that if I would’ve used d3.js instead, I would’ve gotten better results for this purpose. 
 
@@ -33,14 +33,14 @@ The fourth section is about retirement. This is my favorite part of the project.
 
 <img src="images/section4.png" width="800" height="400">
 
-### V
+### V.
 In the last section, I recommend steps to prepare for retirement. My suggestion is that saving early is the key, and to prove my point, I embedded a retirement planning calculator for the readers to estimate how invested money can grow over time. Honesty, I know this is not the only avenue to wealth, but it was a quick suggestion to bring awareness about saving and investing. In terms of design, I do not like how the embedded chart looks, but I kept it there as a place holder until I come up with a better idea.
 
 <img src="images/section5.png" width="400" height="400">
 
 ## Conclusions
 
-### What suggestions would you have for others coming into this subject matter? 
+### Suggestions For Others Coming Into The Web Development Field
 
 Putting this app together was a beginner’s challenge, and it was very worth it. Now I feel confident knowing that I have a strong foundation, and I am ready to take the next steps to keep developing my skills as a front-end developer.
 
