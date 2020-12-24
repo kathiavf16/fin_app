@@ -47,5 +47,26 @@ Putting this app together was a beginner’s challenge, and it was very worth it
 For others coming into this field, I recommend never taking shorts cuts. I tried taking the easy way out and learned that having strong knowledge of the fundamentals is very important. In this field learning never stops. If you feel you do not want to be constantly learning new technologies this is not for you. If you love figuring things out and exploiting your creativity, this is the right field. I feel this project does not reflect my creative side, but it was more of an exploration of trying new technologies. This can get much better, and it will. Overall, taking the Advance Data Studio class was a life-changing experience. Thanks Prof. Aucher!
 
 
+### Data Documentation
+
+#### Data sources: 
+
+* 10 Eye-Opening Financial Literacy Statistics: https://www.opploans.com/oppu/articles/statistics-financial-literacy/
+
+* Income Inequality by State: https://www.epi.org/publication/the-new-gilded-age-income-inequality-in-the-u-s-by-state-metropolitan-area-and-county/
+
+* The Growing Generational Wealth Gap: https://www.washingtonpost.com/business/2019/12/03/precariousness-modern-young-adulthood-one-chart/
+
+* How Much You Need to Retire Comfortably in Each State?: https://howmuch.net/sources/cost-comfortable-retirement-america
+
+* Steps to Prepare for Retirement: https://observablehq.com/@kathiavf16/tvmchart?oetm_referrer=https%3A%2F%2Fkathiavf16.github.io%2F&oetm_route=%2F%40kathiavf16%2Ftvmchart
+
+
+
+
+
+
+
+
 
 
