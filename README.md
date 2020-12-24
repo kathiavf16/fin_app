@@ -1,7 +1,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Background Context of The Project
+## About
 
 My project is about Wealth and Financial Literacy, Important Fact You Need to Know. I picked this subject because I enjoy learning about personal finance. I have noticed that most millennials around me do not know enough about the subject, and I find this concerning. One of my main discoveries was that in 2019, millennials only owned 4.5% of the wealth in the U.S. On the other hand, baby boomers owned 53.1%. I believe these numbers might get worse over time if financial literacy is not reinforced in future generations from a very early age. 
 
