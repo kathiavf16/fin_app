@@ -42,7 +42,7 @@ In the last section, I recommend steps to prepare for retirement. My suggestion 
 
 Putting this app together was a beginner’s challenge, and it was very worth it. Now I feel confident knowing that I have a strong foundation, and I am ready to take the next steps to keep developing my skills as a front-end developer.
 
-For others coming into this field, I recommend never taking shorts cuts. I tried taking the easy way out and learned that having strong knowledge of the fundamentals is very important. In this field learning never stops. If you feel you do not want to be constantly learning new technologies this is not for you. If you love figuring things out and exploiting your creativity, this is the right field. I feel this project does not reflect my creative side, but it was more of an exploration of trying new technologies. This can get much better, and it will. Overall, taking the Advance Data Studio class was a life-changing experience. Thanks Prof. Aucher!
+For others coming into this field, I recommend never taking shorts cuts. I tried taking the easy way out and learned that having strong knowledge of the fundamentals is very important. In this field learning never stops. If you feel you do not want to be constantly learning new technologies this is not for you. If you love figuring things out and exploiting your creativity, this is the right field. I feel this project does not reflect my creative side, but it was more of an exploration of trying new technologies. This can get much better, and it will. Overall, taking the Advanced Data Studio class was a life-changing experience. Thanks Prof. Aucher!
 
 
 ### Data Documentation
