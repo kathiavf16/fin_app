@@ -4,7 +4,7 @@ export default function Section({ subcontent4, content2, placeholder, regionsele
   return (
     <div className={"section" + (dark ? " section-dark" : "") } >
       <div class="title" id={id}>
-          <p>{sectiontitle} {selection} {regionselection}</p>
+          <div>{sectiontitle} {selection} {regionselection}</div>
       </div>
       <br></br>
 
