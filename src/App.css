@@ -5,15 +5,16 @@
 
 
 body{
-  background-color: #fbf6f0;
+  background-color: #ffff;
   vertical-align: baseline;
-  font-weight: bold;
+  font-weight: ;
 
 }
 h1{
 font-family: 'Playfair Display', serif;
 font-size: 2.6em;
-color: #532e1c;
+color: #222831;
+text-align: center;
 
 }
 /* nav bar */
@@ -24,7 +25,7 @@ p{
 }
 
 :root {
-  --off-white: #5aa469;
+  --off-white: #222831;
   /* data table colors */
   --rft-main-color: #111d13;
   --rft-button-color: #111d13;
@@ -103,7 +104,7 @@ p{
   font-style: italic;
   font-weight: bold;
   font-size: 1em;
-  color: orange;
+  color: #fbf6f0;
   padding: 1%;
   background-color: black;
   font-family: 'Montserrat', sans-serif;
@@ -113,7 +114,7 @@ p{
   font-style: italic;
   font-weight: bold;
   font-size: 1.6em;
-  color: #8f384d;
+  color: #222831;
   padding: 1%;
   font-family: 'Montserrat', sans-serif
 }
@@ -125,7 +126,7 @@ p{
   position: absolute;
   font-weight: bold;
   font-size: 1.1em;
-  color: green;
+  color: #707070;
 
 }
 #section2.other p {
@@ -143,14 +144,14 @@ p{
   position: absolute;
   font-weight: bold;
   font-size: 1.1em;
-  color: green;
+  color: #707070;
 
 }
 #section2.subcontent3 {
   font-style: italic;
   font-weight: bold;
   font-size: 1.4em;
-  color: #8f384d;
+  color: #222831;
   padding: 1%;
   font-family: 'Montserrat', sans-serif
 
@@ -163,10 +164,10 @@ p{
 
 }
 #section2.content {
-  width: 90%;
+  width: 100%;
   margin: 0 0 0 0;
   position: relative;
-  right: 5%;
+  right: 0%;
   display: inline-block;
 
 }
@@ -174,18 +175,11 @@ p{
   font-style: italic;
   font-weight: bold;
   font-size: 1em;
-  color: orange;
+  color: #fbf6f0;
   padding: 1%;
   background-color: black;
   font-family: 'Montserrat', sans-serif;
 
-}
-#section4.subcontent2 {
-  width: 400px;
-  margin: 0 0 0 0;
-  right: -60%;
-  top: -80%;
-  position: relative;
 }
 
 #section4.subcontent{
@@ -196,13 +190,22 @@ p{
    font-style: italic;
    font-weight: bold;
    font-size: 1.2em;
-   color: #8f384d;
+   color: #222831;
    font-family: 'Montserrat', sans-serif;
    text-align: left;
    background-color: white;
 }
 #section6.placeholder {
   text-align: left;
+}
+#section6.other {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1em;
+  color: #222831;
+  padding: 1%;
+  font-family: 'Montserrat', sans-serif
+
 }
 .pa{
   font-weight: bolder;
@@ -213,8 +216,17 @@ p{
   max-width: 900px;
   margin: 0 auto;
   padding: 40px;
+  text-align: left;
 }
-
+#section4.section-content ul{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: left;
+  color: grey;
+  font-size: 1.1em;
+  font-style: italic;
+}
 .nav-element {
     margin: auto;
     max-width: 78px;
@@ -226,13 +238,28 @@ p{
    font-size: 14px;
    letter-spacing: .050em;
    font-weight: 600;
-   color: #fefae0;
+   color: #fbf6f0;
    margin: 0;
    display: inline-block;
    vertical-align: top;
    float: left;
    z-index: 1;
    position: relative;
+}
+
+.section .title a{
+  background: #111d13;
+  padding: 0 9px 4px;
+  font-size: 14px;
+  letter-spacing: .050em;
+  font-weight: 600;
+  color: #fbf6f0;
+  margin: 0;
+  display: inline-block;
+  vertical-align: top;
+  float: left;
+  z-index: 1;
+  position: relative;
 }
 /* us map tooltip */
 

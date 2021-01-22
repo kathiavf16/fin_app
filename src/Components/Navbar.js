@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import logo from "../logo.png";
 //import NavElement from "./NavElement"
 import { Link, animateScroll as scroll } from "react-scroll";
 
@@ -12,12 +11,6 @@ export default class Navbar extends Component {
     return (
       <nav className="nav" id="navbar">
         <div className="nav-content">
-          <img
-            src={logo}
-            className="nav-logo"
-            alt="Logo"
-            onClick={this.scrollToTop}
-          />
           <ul className="nav-items">
             <li className="nav-item" >
               <Link
@@ -27,9 +20,8 @@ export default class Navbar extends Component {
                 smooth={true}
                 offset={-100}
                 duration={1300}
-
               >
-              Intro
+              Back to Top
               </Link>
             </li>
             <li className="nav-item">
@@ -42,7 +34,7 @@ export default class Navbar extends Component {
                 offset={-100}
                 duration={1300}
               >
-              Map
+              Inequality Map
               </Link>
             </li>
             <li className="nav-item" >

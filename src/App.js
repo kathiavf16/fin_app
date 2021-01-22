@@ -5,7 +5,6 @@ import incomedata from "./Data/income-debt.json"
 import raceregion from "./Data/race_region.json"
 import datatable from "./Data/datatable.json"
 import inequality from "./Data/statesk.json"
-import stockregion from "./Data/stock_region.json";
 import BarChartCus from "./Components/BarChartCus.js"
 import Linechart from "./Components/Linechart.js"
 import ReactTooltip from 'react-tooltip'
@@ -51,16 +50,18 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
       <div className="App">
         <Navbar />
         <Section
-          sectiontitle={"Introduction"}
-          subcontent3={<div><p>"This visualization was created putting together findings from many different sources to bring
-            awareness about the importance of financial literacy, and other concerns Americans are facing now when thinking about the outlook of their
-            financial future"</p>
-            </div>}
-          placeholder={<div><p>The slide show below shows 10 eye-opening financial literacy stats. These stats represent the main issues Americans
-          struggle with nowadays, and action needs to be taken to achieve a comfortable retirement.</p></div>}
-          title="Wealth and Financial Literacy - Are Gen Z and Millenials Ready For The Future?"
-          subcontent={"After learning about the main financial concerns of Americans lets learn about income inequality..."}
-          subcontent2={""}
+          sectiontitle={<div><a href="https://github.com/kathiavf16/fin_app" target="_blank">GitHub Repo</a></div>}
+
+          placeholder={<div>
+            <p>It turns out many Americans aren’t financially literate. And they’re stressed about it.
+
+In fact, a 2018 FINRA study found financial capability, stability, and confidence aren’t improving. Over 53% of adults say thinking about their financial situation makes them anxious.
+Forty-four percent say discussing their finances is stressful.</p>
+  <p>Younger Americans are feeling the greatest burden. The study found persisting and widening gaps between those who are struggling and those who are prospering financially — skewing generationally.
+    Those between the ages of 18 to 34 have the highest levels of financial stress (63%) and anxiety (55%).</p>
+            <p>The slide show below shows 10 eye-opening financial literacy stats.</p></div>}
+          title="Wealth and Financial Literacy - Important Facts You Need to Know"
+          subcontent2={<div><a href="https://www.opploans.com/oppu/articles/statistics-financial-literacy/" target="_blank">Reference: 10 Eye-Opening Financial Literacy Statistics</a><br></br></div>}
           content={<Carousel showArrows={true} showThumbs={false}>
             <Card
               url={"https://i.ibb.co/GWgj1cx/intro.png"}
@@ -111,13 +112,17 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
             <p>Average Income of Top 1%: {avgincome1}</p>
             <p>Financial Literacy Grade: {grade}</p>
           </div>}
-          subcontent3={<div>The top 1% make  {coefficient} times more than the bottom 99% in {states}</div>}
+          subcontent3={<div>The top 1% makes  {coefficient} times more than the bottom 99% in {states}</div>}
           content={<div>
           <MapChart setTooltipContent={setContent} setState={setState} setRegion={setRegion} setStock={setStock} setIncome1={setIncome1} setIncome99={setIncome99} setGrade={setGrade} setCoefficient={setCoefficient}  colorScale={"red"}/>
           <ReactTooltip place="top" type="dark" effect="float">{tcontent}</ReactTooltip>
-          <p>Wealth is highly concentrated among the richest members of each state. Because of rising
-            inequality throughout the economy, the very wealthy have amassed enormous stockpiles of treasure, leaving little for everyone else.</p>
           </div>}
+          subcontent={<div>
+            <p> Income inequality has risen in every state since the 1970s and, in most states, it has grown in the post–Great Recession era. From 2009 to 2015, the incomes of the top 1 percent grew faster than the incomes of the bottom 99 percent in 43 states and the District of Columbia. The top 1 percent captured half or more of all income growth in nine states. In 2015, a family in the top 1 percent nationally received, on average, 26.3 times as much income as a family in the bottom 99 percent.</p>
+            <p>Wealth is highly concentrated among the richest members of each state. Because of rising
+              inequality throughout the economy, the very wealthy have amassed enormous stockpiles of treasure, leaving little for everyone else.</p>
+          </div>}
+          subcontent2={<div><a href="https://www.epi.org/publication/the-new-gilded-age-income-inequality-in-the-u-s-by-state-metropolitan-area-and-county/" target="_blank">Reference: The new gilded age</a></div>}
           dark={false}
           id="section2"
         />
@@ -134,16 +139,24 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
                 the U.S. Federal Reserve shows that older generations have been amassing wealth at a far greater rate than their younger cohorts.
                 As the visual below shows, the older have been getting richer, and the younger have been starting further back than ever before.</p></div>}
           dark={true}
+          subcontent2={<div><a href="https://www.washingtonpost.com/business/2019/12/03/precariousness-modern-young-adulthood-one-chart/" target="_blank">Reference: The staggering millennial wealth deficit, in one chart</a><br></br></div>}
           id="section3"
         />
         <Section
           sectiontitle={"Cost of Retirement by State "}
           title="How Much You Need to Retire Comfortably in Each State?"
-          content={<ReactFlexyTable className="Flex-table" data={datatable} sortable filterable pageSize={52} />}
+          content={<ReactFlexyTable className="Flex-table" data={datatable} sortable filterable pageSize={52} pageSizeOptions={[52]} previousText={""} nextText={""} />}
           text={<div><p>Having enough savings to afford a comfortable retirement has been an issue for a long time now. In fact, some economists have
             recently estimated that millennials will face even a harder challenge and should save almost half of their income if they wish to retire at
-            65. However, the good news is that some parts of the country are friendlier on the wallet than others when it comes to retirement.</p></div>}
-          placeholder={"Search for states using the search bar on the table"}
+            65. However, the good news is that some parts of the country are friendlier on the wallet than others when it comes to retirement.</p>
+            <ul>
+              <li>The average retirement age in the U.S. is 64 years old. At the state level, the average retirement age varies from 61 years old in Alaska and West Virginia to 67 years old in Washington, D.C.</li>
+              <li>The average life expectancy nationwide is 78.6. Among the states, Mississippi has the lowest life expectancy at 74.5, and Hawaii has the highest life expectancy at 81.5.</li>
+              <li>Nationwide, the average yearly expenses for someone over the age of 65 is $51,624. Mississippi has the lowest annual expenses at $44,758, while Hawaii has the highest annual expenses at $99,170.</li>
+            </ul>
+
+    </div>}
+          placeholder={"SEARCH STATES USING THE SEARCH BAR"}
           titlecontent={"Savings Required to Retire by State"}
           subcontent={<BarChartCus
           data={worthdata}
@@ -151,6 +164,7 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
           key1={"Savings Required"}
                           />}
           dark={false}
+          subcontent2={<div><a href="https://howmuch.net/articles/cost-comfortable-retirement-america" target="_blank">Reference: Mapped: How Much Money do You Need to Retire Comfortably in Each State?</a><br></br></div>}
           id="section4"
         />
         <Section
@@ -177,15 +191,25 @@ console.log("region", sregion, region, "ine", incomes, avgincome99, grade, coeff
               position="relative"/>}
 
           subtitle={"Steps to Financial Wellbeing"}
+          subcontent2={<div><a href="https://www.youtube.com/watch?v=O0YEHweIESg&ab_channel=PhilTown%27sRule%231Investing" target="_blank">5 Common Mistakes People Make While Planning for Retirement| Phil Town</a><br></br>
+          <a href="https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/top-10-ways-to-prepare-for-retirement.pdf" target="_blank">Reference: Top 10 Ways to Prepare for Retirement</a><br></br></div>}
           dark={true}
           id="section5"
         />
         <Section
           sectiontitle={"About the Data"}
           title="About the Data"
+          other={<div><p>"This visualization was created putting together findings from many different sources to bring
+            awareness about the importance of financial literacy, and other concerns Americans are facing now when thinking about the outlook of their
+            financial future"</p>
+            </div>}
           placeholder={<div>
-          <h3>References</h3>
-          <a href="https://www.visualcapitalist.com/charting-the-growing-generational-wealth-gap/" >Charting The Growing Generational Wealth Gap</a><br></br>
+
+          <p>The data was collected using relevant information from the articles listed below:</p>
+            <p>It’s important to note that a majority of these studies were conducted prior to the coronavirus pandemic.</p>
+            <h2>References</h2>
+          <a href="https://www.opploans.com/oppu/articles/statistics-financial-literacy/" target="_blank">10 Eye-Opening Financial Literacy Statistics:</a><br></br>
+          <a href="https://www.visualcapitalist.com/charting-the-growing-generational-wealth-gap/" target="_blank">Charting The Growing Generational Wealth Gap</a><br></br>
           <a href="https://www.washingtonpost.com/business/2019/12/03/precariousness-modern-young-adulthood-one-chart/" target="_blank">The staggering millennial wealth deficit, in one chart</a><br></br>
           <a href="https://howmuch.net/articles/cost-comfortable-retirement-america" target="_blank">Mapped: How Much Money do You Need to Retire Comfortably in Each State?</a><br></br>
           <a href="https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/top-10-ways-to-prepare-for-retirement.pdf" target="_blank">Top 10 Ways to

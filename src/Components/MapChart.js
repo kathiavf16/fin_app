@@ -76,22 +76,22 @@ const MapChart = ({ setTooltipContent, setState, setRegion, colorScale, setStock
                     setTooltipContent(`${curs.grade} - ${(curs.state)}`); //tooltip variable
                     console.log("state", curs.grade, geo.properties)
                   }}
-                  onMouseLeave={() => {
-                    setTooltipContent("");
-                  }}
                   style={{
                     default: {
-                      fill: "#d8ac9c",
+                      fill: "#adb36e",
                       outline: "none"
                     },
                     hover: {
-                      fill: "#F53",
+                      fill: "#F42",
                       outline: "none"
                     },
                     pressed: {
                       fill: "#E42",
                       outline: "none"
-                    }
+                    },
+                  }}
+                  onMouseLeave={() => {
+                    setTooltipContent("");
                   }}
                 />
               ))

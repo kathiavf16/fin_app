@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Section({ content2, placeholder, regionselection, other,other2, sectiontitle, title, titlecontent,titlesubcontent, content,titlesubcontent2, subcontent, subcontent2, subcontent3, dark, id, selection, text }) {
+export default function Section({ subcontent4, content2, placeholder, regionselection, other,other2, sectiontitle, title, titlecontent,titlesubcontent, content,titlesubcontent2, subcontent, subcontent2, subcontent3, dark, id, selection, text }) {
   return (
-    <div className={"section" + (dark ? " section-dark" : "")}>
-      <div class="title">
+    <div className={"section" + (dark ? " section-dark" : "") } >
+      <div class="title" id={id}>
           <p>{sectiontitle} {selection} {regionselection}</p>
       </div>
       <br></br>
@@ -14,6 +14,7 @@ export default function Section({ content2, placeholder, regionselection, other,
         <br></br>
         <div>{text}</div>
         <br></br>
+        <div className="subcontent4" id={id}>{subcontent4}</div>
         <div className="subcontent3" id={id}>{subcontent3}</div>
         <div className="other" id={id}>{other}</div>
         <div className="other2" id={id}>{other2}</div>
